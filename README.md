@@ -368,7 +368,7 @@ The related papers are categorized as below:
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :--: | :--------------------------------------------------------------------------------------------------------------: |
 | [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)                                                                   |     NeurIPS     |  `W` |   [Caffe(Author)](https://github.com/yiwenguo/Dynamic-Network-Surgery) ⭐ 190 \| 🐛 7 \| 🌐 C++ \| 📅 2017-08-15  |
 | [Learning the Number of Neurons in Deep Networks](https://proceedings.neurips.cc/paper/2016/hash/6e7d2da6d3953058db75714ac400b584-Abstract.html) |     NeurIPS     |  `F` |                                                         -                                                        |
-| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)     | ICLR **(Best)** |  `W` | [Caffe(Author)](https://github.com/songhan/Deep-Compression-AlexNet) ⭐ 671 \| 🐛 1 \| 🌐 Python \| 📅 2022-03-05 |
+| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)     | ICLR **(Best)** |  `W` | [Caffe(Author)](https://github.com/songhan/Deep-Compression-AlexNet) ⭐ 672 \| 🐛 1 \| 🌐 Python \| 📅 2022-03-05 |
 
 ### 2015
 
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
