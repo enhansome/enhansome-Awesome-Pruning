@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Revisiting Pruning at Initialization Through the Lens of Ramanujan Graph",
-          "description": "ICLR PyTorch(Author)(Releasing)",
+          "description": "ICLR  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -21,7 +21,7 @@
         {
           "node_type": "item",
           "title": "Bit-Pruning: A Sparse Multiplication-Less Dot-Product",
-          "description": "ICLR Code Deleted",
+          "description": "ICLR  Code Deleted",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "A Unified Framework for Soft Threshold Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "TVSPrune - Pruning Non-discriminative filters via Total Variation separability of intermediate representations without fine tuning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "OTOv2: Automatic, Generic, User-Friendly",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Pruning Deep Neural Networks from a Sparsity Perspective",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "How I Learned to Stop Worrying and Love Retraining",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "Parameter-Efficient Masking Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "\"Lossless\" Compression of Deep Neural Networks: A High-dimensional Neural Tangent Kernel Approach",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -147,7 +147,7 @@
         {
           "node_type": "item",
           "title": "Losses Can Be Blessings: Routing Self-Supervised Speech Representations Towards Efficient Multilingual and Multitask Speech Processing",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
         {
           "node_type": "item",
           "title": "Models Out of Line: A Fourier Lens on Distribution Shift Robustness",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,7 +177,7 @@
         {
           "node_type": "item",
           "title": "Robust Binary Models by Pruning Randomly-initialized Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "Rare Gems: Finding Lottery Tickets at Initialization",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropagation",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "Sparse Winning Tickets are Data-Efficient Image Recognizers",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -252,7 +252,7 @@
         {
           "node_type": "item",
           "title": "Data-Efficient Structured Pruning via Submodular Optimization",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -267,7 +267,7 @@
         {
           "node_type": "item",
           "title": "Structural Pruning via Latency-Saliency Knapsack",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -282,7 +282,7 @@
         {
           "node_type": "item",
           "title": "Controlled Sparsity via Constrained Optimization or: How I Learned to Stop Tuning Penalties and Love Constraints",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "Advancing Model Pruning via Bi-level Optimization",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference",
-          "description": "NeurIPS PyTorch(Author)(Releasing)",
+          "description": "NeurIPS  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -327,7 +327,7 @@
         {
           "node_type": "item",
           "title": "Transform Once: Efficient Operator Learning in Frequency Domain",
-          "description": "NeurIPS PyTorch(Author)(Releasing)",
+          "description": "NeurIPS  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "Most Activation Functions Can Win the Lottery Without Excessive Depth",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "Model Preserving Compression for Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,7 +372,7 @@
         {
           "node_type": "item",
           "title": "FairGRAPE: Fairness-Aware GRAdient Pruning mEthod for Face Attribute Classification",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -402,7 +402,7 @@
         {
           "node_type": "item",
           "title": "Ensemble Knowledge Guided Sub-network Search and Fine-Tuning for Filter Pruning",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,7 +417,7 @@
         {
           "node_type": "item",
           "title": "CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "Soft Masking for Cost-Constrained Channel Pruning",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -462,7 +462,7 @@
         {
           "node_type": "item",
           "title": "Bayesian Optimization with Clustering and Rollback for CNN Auto Pruning",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "Exploring Lottery Ticket Hypothesis in Spiking Neural Networks",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "Recent Advances on Neural Network Pruning at Initialization",
-          "description": "IJCAI PyTorch(Author)",
+          "description": "IJCAI  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "SPDY: Accurate Pruning with Speedup Guarantees",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "Sparse Double Descent: Where Network Pruning Aggravates Overfitting",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "The Combinatorial Brain Surgeon: Pruning Weights That Cancel One Another in Neural Networks",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
         {
           "node_type": "item",
           "title": "Linearity Grafting: Relaxed Neuron Pruning Helps Certifiable Robustness",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +567,7 @@
         {
           "node_type": "item",
           "title": "Winning the Lottery Ahead of Time: Efficient Early Network Pruning",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,7 +582,7 @@
         {
           "node_type": "item",
           "title": "Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "Fast Lossless Neural Compression with Integer-Only Discrete Flows",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -627,7 +627,7 @@
         {
           "node_type": "item",
           "title": "Neural Network Pruning Denoises the Features and Makes Local Connectivity Emerge in Visual Tasks",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -642,7 +642,7 @@
         {
           "node_type": "item",
           "title": "Revisiting Random Channel Pruning for Neural Network Compression",
-          "description": "CVPR PyTorch(Author)(Releasing)",
+          "description": "CVPR  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +657,7 @@
         {
           "node_type": "item",
           "title": "Compressing Models With Few Samples: Mimicking Then Replacing",
-          "description": "CVPR PyTorch(Author)(Releasing)",
+          "description": "CVPR  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -672,7 +672,7 @@
         {
           "node_type": "item",
           "title": "DiSparse: Disentangled Sparsification for Multitask Model Compression",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining",
-          "description": "ICLR (Spotlight) PyTorch(Author)",
+          "description": "ICLR (Spotlight)  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,7 +702,7 @@
         {
           "node_type": "item",
           "title": "An Operator Theoretic View On Pruning Deep Neural Networks",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -717,7 +717,7 @@
         {
           "node_type": "item",
           "title": "Effective Model Sparsification by Scheduled Grow-and-Prune Methods",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "How many degrees of freedom do we need to train deep networks: a loss landscape perspective",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,7 +747,7 @@
         {
           "node_type": "item",
           "title": "Dual Lottery Ticket Hypothesis",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "Sparsity Winning Twice: Better Robust Generalization from More Efficient Training",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -792,7 +792,7 @@
         {
           "node_type": "item",
           "title": "SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning",
-          "description": "ICLR (Spotlight) PyTorch(Author)(Releasing)",
+          "description": "ICLR (Spotlight)  PyTorch(Author)(Releasing)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -807,7 +807,7 @@
         {
           "node_type": "item",
           "title": "Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models",
-          "description": "ICLR (Spotlight) PyTorch(Author)",
+          "description": "ICLR (Spotlight)  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -822,7 +822,7 @@
         {
           "node_type": "item",
           "title": "Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -837,7 +837,7 @@
         {
           "node_type": "item",
           "title": "Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -852,7 +852,7 @@
         {
           "node_type": "item",
           "title": "On the Existence of Universal Lottery Tickets",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -867,7 +867,7 @@
         {
           "node_type": "item",
           "title": "Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -882,7 +882,7 @@
         {
           "node_type": "item",
           "title": "Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -897,7 +897,7 @@
         {
           "node_type": "item",
           "title": "The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -918,7 +918,7 @@
         {
           "node_type": "item",
           "title": "The Elastic Lottery Ticket Hypothesis",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -933,7 +933,7 @@
         {
           "node_type": "item",
           "title": "Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -948,7 +948,7 @@
         {
           "node_type": "item",
           "title": "You are caught stealing my winning lottery ticket! Making a lottery ticket claim its ownership",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -963,7 +963,7 @@
         {
           "node_type": "item",
           "title": "Pruning Randomly Initialized Neural Networks with Iterative Randomization",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -978,7 +978,7 @@
         {
           "node_type": "item",
           "title": "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -993,7 +993,7 @@
         {
           "node_type": "item",
           "title": "AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1008,7 +1008,7 @@
         {
           "node_type": "item",
           "title": "A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1023,7 +1023,7 @@
         {
           "node_type": "item",
           "title": "CHIP: CHannel Independence-based Pruning for Compact Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1038,7 +1038,7 @@
         {
           "node_type": "item",
           "title": "Compressing Neural Networks: Towards Determining the Optimal Layer-wise Decomposition",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1053,7 +1053,7 @@
         {
           "node_type": "item",
           "title": "Sparse Flows: Pruning Continuous-depth Models",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1068,7 +1068,7 @@
         {
           "node_type": "item",
           "title": "Scaling Up Exact Neural Network Compression by ReLU Stability",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1083,7 +1083,7 @@
         {
           "node_type": "item",
           "title": "Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1098,7 +1098,7 @@
         {
           "node_type": "item",
           "title": "Heavy Tails in SGD and Compressibility of Overparametrized Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1113,7 +1113,7 @@
         {
           "node_type": "item",
           "title": "ResRep: Lossless CNN Pruning via Decoupling Remembering and Forgetting",
-          "description": "ICCV PyTorch(Author)",
+          "description": "ICCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1128,7 @@
         {
           "node_type": "item",
           "title": "Sub-Bit Neural Networks: Learning To Compress and Accelerate Binary Neural Networks",
-          "description": "ICCV PyTorch(Author)",
+          "description": "ICCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1143,7 +1143,7 @@
         {
           "node_type": "item",
           "title": "Group Fisher Pruning for Practical Network Compression",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1158,7 +1158,7 @@
         {
           "node_type": "item",
           "title": "Towards Compact CNNs via Collaborative Compression",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1188,7 +1188,7 @@
         {
           "node_type": "item",
           "title": "Content-Aware GAN Compression",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1203,7 +1203,7 @@
         {
           "node_type": "item",
           "title": "Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1218,7 +1218,7 @@
         {
           "node_type": "item",
           "title": "Layer-adaptive Sparsity for the Magnitude-based Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1233,7 +1233,7 @@
         {
           "node_type": "item",
           "title": "A Gradient Flow Framework For Analyzing Network Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1248,7 +1248,7 @@
         {
           "node_type": "item",
           "title": "Neural Pruning via Growing Regularization",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1263,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
         {
           "node_type": "item",
           "title": "Network Pruning That Matters: A Case Study on Retraining Variants",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1299,7 +1299,7 @@
         {
           "node_type": "item",
           "title": "Winning the Lottery with Continuous Sparsification",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1314,7 +1314,7 @@
         {
           "node_type": "item",
           "title": "HYDRA: Pruning Adversarially Robust Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1329,7 +1329,7 @@
         {
           "node_type": "item",
           "title": "Movement Pruning: Adaptive Sparsity by Fine-Tuning",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1344,7 +1344,7 @@
         {
           "node_type": "item",
           "title": "Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1359,7 +1359,7 @@
         {
           "node_type": "item",
           "title": "Neuron Merging: Compensating for Pruned Neurons",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1374,7 +1374,7 @@
         {
           "node_type": "item",
           "title": "Neuron-level Structured Pruning using Polarization Regularizer",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1389,7 +1389,7 @@
         {
           "node_type": "item",
           "title": "SCOP: Scientific Control for Reliable Neural Network Pruning",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1404,7 +1404,7 @@
         {
           "node_type": "item",
           "title": "The Generalization-Stability Tradeoff In Neural Network Pruning",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1419,7 +1419,7 @@
         {
           "node_type": "item",
           "title": "Pruning Filter in Filter",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1434,7 +1434,7 @@
         {
           "node_type": "item",
           "title": "Position-based Scaled Gradient for Model Quantization and Pruning",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1449,7 +1449,7 @@
         {
           "node_type": "item",
           "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1464,7 +1464,7 @@
         {
           "node_type": "item",
           "title": "EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning",
-          "description": "ECCV (Oral) PyTorch(Author)",
+          "description": "ECCV (Oral)  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1479,7 +1479,7 @@
         {
           "node_type": "item",
           "title": "DHP: Differentiable Meta Pruning via HyperNetworks",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1494,7 +1494,7 @@
         {
           "node_type": "item",
           "title": "Channel Pruning via Automatic Structure Search",
-          "description": "IJCAI PyTorch(Author)",
+          "description": "IJCAI  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1509,7 +1509,7 @@
         {
           "node_type": "item",
           "title": "Soft Threshold Weight Reparameterization for Learnable Sparsity",
-          "description": "ICML Pytorch(Author)",
+          "description": "ICML  Pytorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1524,7 +1524,7 @@
         {
           "node_type": "item",
           "title": "Towards Efficient Model Compression via Learned Global Ranking",
-          "description": "CVPR (Oral) Pytorch(Author)",
+          "description": "CVPR (Oral)  Pytorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1539,7 +1539,7 @@
         {
           "node_type": "item",
           "title": "HRank: Filter Pruning using High-Rank Feature Map",
-          "description": "CVPR (Oral) Pytorch(Author)",
+          "description": "CVPR (Oral)  Pytorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1554,7 +1554,7 @@
         {
           "node_type": "item",
           "title": "DMCP: Differentiable Markov Channel Pruning for Neural Networks",
-          "description": "CVPR (Oral) TensorFlow(Author)",
+          "description": "CVPR (Oral)  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1569,7 +1569,7 @@
         {
           "node_type": "item",
           "title": "Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1584,7 +1584,7 @@
         {
           "node_type": "item",
           "title": "ProxSGD: Training Structured Neural Networks under Regularization and Constraints",
-          "description": "ICLR TF+PT(Author)",
+          "description": "ICLR  TF+PT(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1599,7 +1599,7 @@
         {
           "node_type": "item",
           "title": "Lookahead: A Far-sighted Alternative of Magnitude-based Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1614,7 +1614,7 @@
         {
           "node_type": "item",
           "title": "Comparing Rewinding and Fine-tuning in Neural Network Pruning",
-          "description": "ICLR (Oral) TensorFlow(Author)",
+          "description": "ICLR (Oral)  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1635,7 +1635,7 @@
         {
           "node_type": "item",
           "title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask",
-          "description": "NeurIPS TensorFlow(Author)",
+          "description": "NeurIPS  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1650,7 +1650,7 @@
         {
           "node_type": "item",
           "title": "Global Sparse Momentum SGD for Pruning Very Deep Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,7 +1665,7 @@
         {
           "node_type": "item",
           "title": "Network Pruning via Transformable Architecture Search",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1680,7 +1680,7 @@
         {
           "node_type": "item",
           "title": "Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1695,7 +1695,7 @@
         {
           "node_type": "item",
           "title": "Model Compression with Adversarial Robustness: A Unified Optimization Framework",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "Adversarial Robustness vs Model Compression, or Both?",
-          "description": "ICCV PyTorch(Author)",
+          "description": "ICCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1725,7 @@
         {
           "node_type": "item",
           "title": "MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning",
-          "description": "ICCV PyTorch(Author)",
+          "description": "ICCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1740,7 +1740,7 @@
         {
           "node_type": "item",
           "title": "COP: Customized Deep Model Compression via Regularized Correlation-Based Filter-Level Pruning",
-          "description": "IJCAI Tensorflow(Author)",
+          "description": "IJCAI  Tensorflow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1755,7 +1755,7 @@
         {
           "node_type": "item",
           "title": "Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration",
-          "description": "CVPR (Oral) PyTorch(Author)",
+          "description": "CVPR (Oral)  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1770,7 +1770,7 @@
         {
           "node_type": "item",
           "title": "Towards Optimal Structured CNN Pruning via Generative Adversarial Learning",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1785,7 +1785,7 @@
         {
           "node_type": "item",
           "title": "Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1800,7 +1800,7 @@
         {
           "node_type": "item",
           "title": "On Implicit Filter Level Sparsity in Convolutional Neural Networks",
-          "description": ", Extension1, Extension2 CVPR PyTorch(Author)",
+          "description": ", Extension1, Extension2 CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1815,7 @@
         {
           "node_type": "item",
           "title": "Importance Estimation for Neural Network Pruning",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1830,7 +1830,7 @@
         {
           "node_type": "item",
           "title": "Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search",
-          "description": "CVPR TensorFlow(Author)",
+          "description": "CVPR  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1845,7 +1845,7 @@
         {
           "node_type": "item",
           "title": "EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1860,7 +1860,7 @@
         {
           "node_type": "item",
           "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
-          "description": "ICLR (Best) TensorFlow(Author)",
+          "description": "ICLR (Best)  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1875,7 +1875,7 @@
         {
           "node_type": "item",
           "title": "SNIP: Single-shot Network Pruning based on Connection Sensitivity",
-          "description": "ICLR TensorFLow(Author)",
+          "description": "ICLR  TensorFLow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1890,7 +1890,7 @@
         {
           "node_type": "item",
           "title": "Dynamic Channel Pruning: Feature Boosting and Suppression",
-          "description": "ICLR TensorFlow(Author)",
+          "description": "ICLR  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1905,7 +1905,7 @@
         {
           "node_type": "item",
           "title": "Rethinking the Value of Network Pruning",
-          "description": "ICLR PyTorch(Author)",
+          "description": "ICLR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1920,7 +1920,7 @@
         {
           "node_type": "item",
           "title": "Dynamic Sparse Graph for Efficient Deep Learning",
-          "description": "ICLR CUDA(3rd)",
+          "description": "ICLR  CUDA(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1941,7 +1941,7 @@
         {
           "node_type": "item",
           "title": "Discrimination-aware Channel Pruning for Deep Neural Networks",
-          "description": "NeurIPS TensorFlow(Author)",
+          "description": "NeurIPS  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1956,7 +1956,7 @@
         {
           "node_type": "item",
           "title": "Constraint-Aware Deep Neural Network Compression",
-          "description": "ECCV SkimCaffe(Author)",
+          "description": "ECCV  SkimCaffe(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1971,7 +1971,7 @@
         {
           "node_type": "item",
           "title": "A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers",
-          "description": "ECCV Caffe(Author)",
+          "description": "ECCV  Caffe(Author)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1986,7 +1986,7 @@
         {
           "node_type": "item",
           "title": "Amc: Automl for model compression and acceleration on mobile devices",
-          "description": "ECCV TensorFlow(3rd)",
+          "description": "ECCV  TensorFlow(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2001,7 +2001,7 @@
         {
           "node_type": "item",
           "title": "Data-Driven Sparse Structure Selection for Deep Neural Networks",
-          "description": "ECCV MXNet(Author)",
+          "description": "ECCV  MXNet(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2016,7 +2016,7 @@
         {
           "node_type": "item",
           "title": "Coreset-Based Neural Network Compression",
-          "description": "ECCV PyTorch(Author)",
+          "description": "ECCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2031,7 +2031,7 @@
         {
           "node_type": "item",
           "title": "Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks",
-          "description": "IJCAI PyTorch(Author)",
+          "description": "IJCAI  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2046,7 +2046,7 @@
         {
           "node_type": "item",
           "title": "Compressing Neural Networks using the Variational Information Bottleneck",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2061,7 +2061,7 @@
         {
           "node_type": "item",
           "title": "Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions",
-          "description": "ICML PyTorch(Author)",
+          "description": "ICML  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2076,7 +2076,7 @@
         {
           "node_type": "item",
           "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
-          "description": "CVPR PyTorch(Author)",
+          "description": "CVPR  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2091,7 +2091,7 @@
         {
           "node_type": "item",
           "title": "Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers",
-          "description": "ICLR TensorFlow(Author), PyTorch(3rd)",
+          "description": "ICLR  TensorFlow(Author), PyTorch(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2112,7 +2112,7 @@
         {
           "node_type": "item",
           "title": "Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee",
-          "description": "NeurIPS TensorFlow(Author)",
+          "description": "NeurIPS  TensorFlow(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2127,7 +2127,7 @@
         {
           "node_type": "item",
           "title": "Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon",
-          "description": "NeurIPS PyTorch(Author)",
+          "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2142,7 +2142,7 @@
         {
           "node_type": "item",
           "title": "ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression",
-          "description": "ICCV Caffe(Author), PyTorch(3rd)",
+          "description": "ICCV  Caffe(Author), PyTorch(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2157,7 +2157,7 @@
         {
           "node_type": "item",
           "title": "Channel pruning for accelerating very deep neural networks",
-          "description": "ICCV Caffe(Author)",
+          "description": "ICCV  Caffe(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2172,7 +2172,7 @@
         {
           "node_type": "item",
           "title": "Learning Efficient Convolutional Networks Through Network Slimming",
-          "description": "ICCV PyTorch(Author)",
+          "description": "ICCV  PyTorch(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2187,7 +2187,7 @@
         {
           "node_type": "item",
           "title": "Pruning Filters for Efficient ConvNets",
-          "description": "ICLR PyTorch(3rd)",
+          "description": "ICLR  PyTorch(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2202,7 +2202,7 @@
         {
           "node_type": "item",
           "title": "Pruning Convolutional Neural Networks for Resource Efficient Inference",
-          "description": "ICLR TensorFlow(3rd)",
+          "description": "ICLR  TensorFlow(3rd)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2223,7 @@
         {
           "node_type": "item",
           "title": "Dynamic Network Surgery for Efficient DNNs",
-          "description": "NeurIPS Caffe(Author)",
+          "description": "NeurIPS  Caffe(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2238,7 +2238,7 @@
         {
           "node_type": "item",
           "title": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",
-          "description": "ICLR (Best) Caffe(Author)",
+          "description": "ICLR (Best)  Caffe(Author)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:24:04.124Z",
+    "last_updated": "2026-08-25T05:55:13.106Z",
     "original_repository": "he-y/Awesome-Pruning",
     "original_repository_id": 189363210,
     "original_repository_sha": "45ac58b4389aea4c0b2c2fcf92861d6855dee8fa",
