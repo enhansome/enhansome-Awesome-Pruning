@@ -1689,7 +1689,7 @@
             "last_commit": "2020-02-21T15:34:07Z",
             "owner": "youzhonghui",
             "repo": "gate-decorator-pruning",
-            "stars": 194
+            "stars": 193
           }
         },
         {
@@ -1995,7 +1995,7 @@
             "last_commit": "2023-03-31T22:23:33Z",
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2908
+            "stars": 2909
           }
         },
         {
@@ -2211,7 +2211,7 @@
             "last_commit": "2023-03-31T22:23:33Z",
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2908
+            "stars": 2909
           }
         }
       ],
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:13.106Z",
+    "last_updated": "2026-08-26T03:30:00.069Z",
     "original_repository": "he-y/Awesome-Pruning",
     "original_repository_id": 189363210,
     "original_repository_sha": "45ac58b4389aea4c0b2c2fcf92861d6855dee8fa",
