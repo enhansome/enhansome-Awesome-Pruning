@@ -1,8 +1,8 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,182 | 🐛 37 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,183 | 🐛 37 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
-Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,498 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,498 | 🐛 16 | 📅 2024-04-04 to add papers.
+Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 to add papers.
 
 ## Table of Contents
 
@@ -355,7 +355,7 @@ The related papers are categorized as below:
 | [Bayesian Compression for Deep Learning](https://proceedings.neurips.cc/paper/2017/hash/69d1fc78dbda242c43ad6590368912d4-Abstract.html)                  | NeurIPS |  `F` |                                                                                                -                                                                                               |
 | [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)                                            |   ICCV  |  `F` | [Caffe(Author)](https://github.com/Roll920/ThiNet) ⭐ 149 \| 🐛 8 \| 📅 2018-09-19, [PyTorch(3rd)](https://github.com/tranorrepository/reprod-thinet) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2017-08-09 |
 | [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168)                                                           |   ICCV  |  `F` |                                           [Caffe(Author)](https://github.com/yihui-he/channel-pruning) ⭐ 1,088 \| 🐛 21 \| 🌐 Python \| 📅 2024-05-02                                          |
-| [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519)                                                   |   ICCV  |  `F` |                                        [PyTorch(Author)](https://github.com/Eric-mingjie/network-slimming) ⭐ 919 \| 🐛 62 \| 🌐 Python \| 📅 2020-11-06                                        |
+| [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519)                                                   |   ICCV  |  `F` |                                        [PyTorch(Author)](https://github.com/Eric-mingjie/network-slimming) ⭐ 918 \| 🐛 62 \| 🌐 Python \| 📅 2020-11-06                                        |
 | [Variational Dropout Sparsifies Deep Neural Networks](http://arxiv.org/abs/1701.05369)                                                                   |   ICML  |  `W` |                                                                                                -                                                                                               |
 | [Combined Group and Exclusive Sparsity for Deep Neural Networks](https://proceedings.mlr.press/v70/yoon17a.html)                                         |   ICML  | `WF` |                                                                                                -                                                                                               |
 | [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)                                  |   CVPR  |  `W` |                                                                                                -                                                                                               |
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

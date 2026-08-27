@@ -2181,7 +2181,7 @@
             "last_commit": "2020-11-06T07:25:09Z",
             "owner": "Eric-mingjie",
             "repo": "network-slimming",
-            "stars": 919
+            "stars": 918
           }
         },
         {
@@ -2366,9 +2366,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:30:00.069Z",
-    "original_repository": "he-y/Awesome-Pruning",
-    "original_repository_id": 189363210,
+    "last_updated": "2026-08-27T11:26:44.329Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 189363210,
+      "language": null,
+      "last_commit": "2024-04-04T07:18:56Z",
+      "owner": "he-y",
+      "repo": "Awesome-Pruning",
+      "stars": 2497
+    },
     "original_repository_sha": "45ac58b4389aea4c0b2c2fcf92861d6855dee8fa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Pruning",
     "enhanced_repository_description": null,
