@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] 'Revisiting Pruning At Initialization Through The Lens of Ramanujan Graph\" by Duc Hoang, Shiwei Liu, Radu Marculescu, Atlas Wang",
+            "homepage": "https://openreview.net/forum?id=uVcDssQff_&referrer=[the%20profile%20of%20Duc%20N.M%20Hoang](/profile?id=~Duc_N.M_Hoang1)",
             "id": 600920140,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-04T23:41:53Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "ramanujan-on-pai",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 607076569,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-05T02:30:56Z",
+            "open_issues": 1,
             "owner": "DensoITLab",
             "repo": "bitprune",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "To appear in the 11th International Conference on Learning Representations (ICLR 2023).",
+            "homepage": null,
             "id": 606063103,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-24T14:13:21Z",
+            "open_issues": 2,
             "owner": "Yanqi-Chen",
             "repo": "LATS",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TVS Prune source code. Includes pruning scripts and ipython notebooks for plotting figures. Requires >16GB RAM.",
+            "homepage": null,
             "id": 496614365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-26T17:48:37Z",
+            "open_issues": 1,
             "owner": "tvsprune",
             "repo": "TVS_Prune",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -74,12 +94,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OTOv1-v3, NeurIPS, ICLR, TMLR, DNN Training, Compression, Structured Pruning, Erasing Operators, CNN, Diffusion, LLM",
+            "homepage": null,
             "id": 418743913,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-16T03:24:41Z",
+            "open_issues": 11,
             "owner": "tianyic",
             "repo": "only_train_once_personal_footprint",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "erasing-operators",
+              "model-compression",
+              "one-shot",
+              "pruning",
+              "pytorch",
+              "sparse-optimization",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -90,12 +125,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] Pruning Deep Neural Networks from a Sparsity Perspective",
+            "homepage": null,
             "id": 453269224,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-08T09:32:25Z",
+            "open_issues": 0,
             "owner": "diaoenmao",
             "repo": "Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "deep-learning",
+              "efficient-machine-learning",
+              "model-compression",
+              "neural-network-compression",
+              "pruning",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -106,12 +153,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to reproduce the experiments of ICLR2023-paper: How I Learned to Stop Worrying and Love Retraining",
+            "homepage": null,
             "id": 461856979,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-23T18:04:00Z",
+            "open_issues": 0,
             "owner": "ZIB-IOL",
             "repo": "BIMP",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "deep-learning",
+              "learning-rate-scheduling",
+              "neural-network",
+              "optimization",
+              "pruning",
+              "pytorch",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -128,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 546763318,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-27T15:44:17Z",
+            "open_issues": 0,
             "owner": "yueb17",
             "repo": "PEMN",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -144,12 +209,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We propose a lossless compression algorithm based on the NTK matrix for DNN.  The compressed network yields asymptotically the same NTK as the original (dense and unquantized) network, with its weights and activations taking values only in  {0, 1, -1} up to scaling. ",
+            "homepage": "https://proceedings.neurips.cc/paper_files/paper/2022/file/185087ea328b4f03ea8fd0c8aa96f747-Paper-Conference.pdf",
             "id": 503710616,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-23T08:41:32Z",
+            "open_issues": 1,
             "owner": "Model-Compression",
             "repo": "Lossless_Compression",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "deep-learning",
+              "model-compression",
+              "neural-tangent-kernel"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -160,12 +234,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022] \"Losses Can Be Blessings: Routing Self-Supervised Speech Representations Towards Efficient Multilingual and Multitask Speech Processing\" by Yonggan Fu, Yang Zhang, Kaizhi Qian, Zhifan Ye, Zhongzhi Yu, Cheng-I Lai, Yingyan Lin",
+            "homepage": null,
             "id": 548634881,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-19T08:27:27Z",
+            "open_issues": 1,
             "owner": "GATECH-EIC",
             "repo": "S3-Router",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "asr-pruning",
+              "automated-speech-recognition",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -176,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RobustNets benchmark models and code",
+            "homepage": null,
             "id": 545755414,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-26T07:42:10Z",
+            "open_issues": 0,
             "owner": "sarafridov",
             "repo": "RobustNets",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -192,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 546145055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-10T14:20:51Z",
+            "open_issues": 0,
             "owner": "IVRL",
             "repo": "RobustBinarySubNet",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -208,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pruning is all you need (hopefully)",
+            "homepage": null,
             "id": 353441536,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-09-07T05:07:35Z",
+            "open_issues": 9,
             "owner": "ksreenivasan",
             "repo": "pruning_is_enough",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -224,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the NeurIPS 2022 paper \"Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning\".",
+            "homepage": "https://arxiv.org/abs/2208.11580",
             "id": 550219217,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-11T15:48:56Z",
+            "open_issues": 3,
             "owner": "IST-DASLab",
             "repo": "OBC",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -240,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Neurips 2022] “ Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation”, Ziyu Jiang*, Xuxi Chen*, Xueqin Huang, Xianzhi Du, Denny Zhou, Zhangyang Wang",
+            "homepage": null,
             "id": 547686315,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-14T22:20:27Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "BackRazor_Neurips22",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -256,12 +364,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022] \"Sparse Winning Tickets are Data-Efficient Image Recognizers\" by Mukund Varma T, Xuxi Chen, Zhenyu Zhang, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang",
+            "homepage": null,
             "id": 548981831,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-24T09:09:28Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "DataEfficientLTH",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "data-efficient-learning",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -272,12 +388,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for \"Data-Efficient Structured Pruning via Submodular Optimization\" [NeurIPS 2022]",
+            "homepage": null,
             "id": 467653194,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-05-05T16:40:08Z",
+            "open_issues": 0,
             "owner": "SamsungSAILMontreal",
             "repo": "subpruning",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -288,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 539142491,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-21T20:59:10Z",
+            "open_issues": 12,
             "owner": "NVlabs",
             "repo": "HALP",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -304,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for the paper \"Controlled Sparsity via Constrained Optimization\"",
+            "homepage": null,
             "id": 521377234,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-10T11:26:56Z",
+            "open_issues": 0,
             "owner": "gallego-posada",
             "repo": "constrained_sparsity",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -320,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS22] \"Advancing Model Pruning via Bi-level Optimization\" by Yihua Zhang*, Yuguang Yao*, Parikshit Ram, Pu Zhao, Tianlong Chen, Mingyi Hong, Yanzhi Wang, and Sijia Liu",
+            "homepage": null,
             "id": 546471372,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-12T08:59:42Z",
+            "open_issues": 2,
             "owner": "OPTML-Group",
             "repo": "BiP",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -336,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 547001605,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-03T19:47:05Z",
+            "open_issues": 1,
             "owner": "ranran0523",
             "repo": "CryptoGCN",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -352,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model hub for all your DiffeqML needs. Pretrained weights, modules, and basic inference infrastructure",
+            "homepage": null,
             "id": 572613068,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-03-09T00:45:24Z",
+            "open_issues": 2,
             "owner": "DiffEqML",
             "repo": "kairos",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -368,12 +514,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IMCL 2022 paper \"Convolutional and Residual Networks Provably Contain Lottery Tickets\" and NeurIPS 2022 paper \"Most Activation Functions Can Win the Lottery Without Excessive Depth\"",
+            "homepage": "https://proceedings.mlr.press/v162/burkholz22a.html",
             "id": 503299558,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-12T12:11:34Z",
+            "open_issues": 0,
             "owner": "RelationalML",
             "repo": "LT-existence",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "lottery-ticket-hypothesis"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -384,12 +537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 540578920,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-01T21:16:57Z",
+            "open_issues": 0,
             "owner": "jerry-chee",
             "repo": "ModelPreserveCompressionNN",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -400,12 +558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 511224702,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-20T14:45:23Z",
+            "open_issues": 2,
             "owner": "Bernardo1998",
             "repo": "FairGRAPE",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -416,12 +579,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning",
+            "homepage": null,
             "id": 476017580,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-07T23:31:57Z",
+            "open_issues": 1,
             "owner": "GATECH-EIC",
             "repo": "SuperTickets",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "lottery-ticket-hypothesis",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -432,12 +603,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning",
+            "homepage": null,
             "id": 466125752,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-20T15:18:14Z",
+            "open_issues": 0,
             "owner": "sseung0703",
             "repo": "EKG",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "filter-pruning",
+              "tensorflow-examples"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -448,12 +627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution",
+            "homepage": null,
             "id": 510210562,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-25T08:26:34Z",
+            "open_issues": 5,
             "owner": "taehokim20",
             "repo": "CPrune",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -464,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515476417,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-24T22:41:38Z",
+            "open_issues": 1,
             "owner": "NVlabs",
             "repo": "SMCP",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -480,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515297865,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-19T01:55:46Z",
+            "open_issues": 1,
             "owner": "Alii-Ganjj",
             "repo": "InterpretationsSteeredPruning",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -496,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV2022] Bayesian Optimization with Cluster and Rollback for CNN Pruning",
+            "homepage": null,
             "id": 513639075,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-02-20T03:11:16Z",
+            "open_issues": 0,
             "owner": "fanhanwei",
             "repo": "BOCR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -512,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring Lottery Ticket Hypothesis in Sparse Spiking Neural Networks (ECCV2022, oral presentation)",
+            "homepage": null,
             "id": 515220065,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-18T15:47:51Z",
+            "open_issues": 1,
             "owner": "Intelligent-Computing-Lab-Panda",
             "repo": "Exploring-Lottery-Ticket-Hypothesis-in-SNNs",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -528,12 +732,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic code base for neural network pruning, especially for pruning at initialization.",
+            "homepage": null,
             "id": 456048650,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-03T14:37:36Z",
+            "open_issues": 0,
             "owner": "MingSun-Tse",
             "repo": "Smile-Pruning",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "efficient-deep-learning",
+              "model-compression",
+              "neural-network-pruning",
+              "pruning-at-initialization"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -544,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ICML 2022 paper \"SPDY: Accurate Pruning with Speedup Guarantees\"",
+            "homepage": "https://arxiv.org/abs/2201.13096",
             "id": 504227049,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-03T08:16:23Z",
+            "open_issues": 1,
             "owner": "IST-DASLab",
             "repo": "spdy",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -560,12 +779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This framework implements key experiments on the sparse double descent phenomenon (ICML 2022).",
+            "homepage": null,
             "id": 503190616,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-13T06:32:43Z",
+            "open_issues": 0,
             "owner": "he-zh",
             "repo": "sparse-double-descent",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -576,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code of The Combinatorial Brain Surgeon: Pruning Weights That Cancel One Another in Neural Networks[ICML2022]",
+            "homepage": null,
             "id": 503871582,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-20T05:30:50Z",
+            "open_issues": 0,
             "owner": "yuxwind",
             "repo": "CBS",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -592,12 +821,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2022] \"Linearity Grafting: Relaxed Neuron Pruning Helps Certifiable Robustness\" by Tianlong Chen*, Huan Zhang*, Zhenyu Zhang, Shiyu Chang, Sijia Liu, Pin-Yu Chen, Zhangyang Wang",
+            "homepage": null,
             "id": 495139042,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-22T17:08:33Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "Linearity-Grafting",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "certifiable-robustness",
+              "certification",
+              "linearity",
+              "linearity-grafting",
+              "neuron-pruning",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -608,12 +849,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Winning the Lottery Ahead of Time: Efficient Early Network Pruning (ICML 2022)",
+            "homepage": null,
             "id": 514253307,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-15T14:33:25Z",
+            "open_issues": 0,
             "owner": "johnrachwan123",
             "repo": "Winning-The-Lottery-Ahead-of-Time",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "crop",
+              "early",
+              "early-pruning",
+              "earlycrop",
+              "pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -624,12 +876,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNN-RL Compression: Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning",
+            "homepage": null,
             "id": 351833161,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-21T19:40:38Z",
+            "open_issues": 2,
             "owner": "yusx-swapp",
             "repo": "GNN-RL-Model-Compression",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "channel-pruning",
+              "filter-pruning",
+              "gnn-rl"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -640,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 504058109,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-17T13:43:00Z",
+            "open_issues": 1,
             "owner": "thu-ml",
             "repo": "IODF",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -656,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[ICML 2022] \"DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks\", by Yonggan Fu, Haichuan Yang, Jiayi Yuan, Meng Li, Cheng Wan, Raghuraman Krishnamoorthi, Vikas Chandra, Yingyan Lin ",
+            "homepage": null,
             "id": 505529730,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-07T02:23:41Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "DepthShrinker",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -672,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Sifting out the features by pruning: Are convolutional networks the winning lottery ticket of fully connected ones?\"",
+            "homepage": null,
             "id": 354554964,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-05-20T18:02:47Z",
+            "open_issues": 0,
             "owner": "phiandark",
             "repo": "SiftingFeatures",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -688,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474938745,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-28T09:46:41Z",
+            "open_issues": 5,
             "owner": "ofsoundof",
             "repo": "random_channel_pruning",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -704,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's the codes of CVPR2022 paper \"Compressing Models with Few Samples: Mimicking then Replacing\"",
+            "homepage": null,
             "id": 472777565,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-22T13:30:09Z",
+            "open_issues": 1,
             "owner": "cjnjuwhy",
             "repo": "MiR",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -720,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] DiSparse: Disentangled Sparsification for Multitask Model Compression",
+            "homepage": "https://arxiv.org/abs/2206.04662",
             "id": 474525808,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-09-06T01:27:37Z",
+            "open_issues": 2,
             "owner": "SHI-Labs",
             "repo": "DiSparse-Multitask-Model-Compression",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -736,12 +1027,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] \"Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, and No Retraining\" by Lu Miao*, Xiaolong Luo*, Tianlong Chen, Wuyang Chen, Dong Liu, Zhangyang Wang",
+            "homepage": null,
             "id": 437364213,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-20T23:33:19Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "SFW-Once-for-All-Pruning",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "once-and-for-all",
+              "pruning",
+              "sparse-neural-networks",
+              "stochastic-frank-wolfe"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -752,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Koopman operator theory based pruning in the ShrinkBench framework",
+            "homepage": null,
             "id": 463008333,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-24T04:47:30Z",
+            "open_issues": 0,
             "owner": "william-redman",
             "repo": "Koopman_pruning",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -768,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICLR'22, Effective Model Sparsification by Scheduled Grow-and-Prune Methods",
+            "homepage": null,
             "id": 455986046,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-16T23:54:23Z",
+            "open_issues": 1,
             "owner": "boone891214",
             "repo": "GaP",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -784,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 347185654,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-04T04:32:51Z",
+            "open_issues": 0,
             "owner": "ganguli-lab",
             "repo": "degrees-of-freedom",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -800,12 +1116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 467642936,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-09T20:41:16Z",
+            "open_issues": 0,
             "owner": "yueb17",
             "repo": "DLTH",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -816,12 +1137,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] \"Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently\", by Xiaohan Chen, Jason Zhang and Zhangyang Wang.",
+            "homepage": "https://openreview.net/forum?id=moHCzz6D5H3",
             "id": 450326731,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-21T02:34:29Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "Peek-a-Boo",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "deep-learning",
+              "efficient-deep-learning",
+              "sparse-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -832,12 +1162,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] \"Sparsity Winning Twice: Better Robust Generalization from More Efficient Training\" by Tianlong Chen*, Zhenyu Zhang*, Pengjun Wang*, Santosh Balachandra*, Haoyu Ma*, Zehao Wang, Zhangyang Wang",
+            "homepage": null,
             "id": 435320437,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-20T13:26:05Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "Sparsity-Win-Robust-Generalization",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "dynamic-sparse-training",
+              "generalization",
+              "lottery-ticket-hypothesis",
+              "pruning",
+              "robust-generalization",
+              "robust-overfitting",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -848,12 +1191,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official PyTorch implementation of the paper \"SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning\"",
+            "homepage": null,
             "id": 470248632,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-15T16:44:50Z",
+            "open_issues": 0,
             "owner": "boschresearch",
             "repo": "sosp",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "paper-resource"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -864,12 +1214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 421284664,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-21T00:12:05Z",
+            "open_issues": 16,
             "owner": "HazyResearch",
             "repo": "fly",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -880,12 +1235,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions. ICLR 2022",
+            "homepage": null,
             "id": 467765505,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-11-24T04:46:36Z",
+            "open_issues": 0,
             "owner": "henryzhongsc",
             "repo": "lottery_regulated_grouped_kernel_pruning",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "iclr",
+              "iclr2022",
+              "model-compression",
+              "pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -896,12 +1262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments on the strong lottery ticket hypothesis for convolutional neural networks",
+            "homepage": null,
             "id": 463142734,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2022-02-24T16:12:38Z",
+            "open_issues": 0,
             "owner": "AInnervate",
             "repo": "cnnslth",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -912,12 +1283,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code accompanying the paper \"On the Existence of Universal Lottery Tickets\" (ICLR 2022)",
+            "homepage": "https://openreview.net/forum?id=SYB4WrJql1n",
             "id": 470517639,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-16T12:03:51Z",
+            "open_issues": 0,
             "owner": "RelationalML",
             "repo": "UniversalLT",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "lottery-ticket-hypothesis"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -928,12 +1306,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'22] PyTorch code for our paper \"Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning\"",
+            "homepage": null,
             "id": 485512583,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-18T14:22:28Z",
+            "open_issues": 1,
             "owner": "MingSun-Tse",
             "repo": "SRP",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "model-compression",
+              "neural-network-pruning",
+              "pruning",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -944,12 +1332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prospect Pruning: Finding Trainable Weights at Initialization Using Meta-Gradients",
+            "homepage": null,
             "id": 474087529,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-30T10:34:40Z",
+            "open_issues": 2,
             "owner": "mil-ad",
             "repo": "prospr",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -960,12 +1353,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training by Shiwei Liu, Tianlong Chen, Xiaohan Chen, Li Shen, Decebal Constantin Mocanu, Zhangyang Wang, Mykola Pechenizkiy",
+            "homepage": "https://openreview.net/forum?id=VBZJ_3tz-t",
             "id": 447005950,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-09T07:22:32Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "Random_Pruning",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "deeplearning",
+              "erk",
+              "grasp",
+              "pruning",
+              "pruningatinitialization",
+              "randompruning",
+              "snip",
+              "sparsetraining"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -982,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021] \"The Elastic Lottery Ticket Hypothesis\", by Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Jingjing Liu, Zhangyang Wang.",
+            "homepage": null,
             "id": 353089071,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-30T04:59:24Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "ElasticLTH",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -998,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS‘2021] \"Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?\", Xiaolong Ma, Geng Yuan, Yanzhi Wang et al.",
+            "homepage": null,
             "id": 413613534,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T18:28:48Z",
+            "open_issues": 0,
             "owner": "boone891214",
             "repo": "sanity-check-LTH",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1014,12 +1431,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'21] \"You are caught stealing my winning lottery ticket! Making a lottery ticket claim its ownership\" by Xuxi Chen*, Tianlong Chen*, Zhenyu Zhang, Zhangyang Wang",
+            "homepage": null,
             "id": 396867548,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-01T05:02:41Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "NO-stealing-LTH",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "intellectual-property",
+              "lottery-ticket-hypothesis",
+              "qrcode",
+              "watermark",
+              "winning-tickets"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1030,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for \"Pruning Randomly Initialized Neural Networks with Iterative Randomization\"",
+            "homepage": "https://arxiv.org/abs/2106.09269",
             "id": 377731188,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-05T12:34:30Z",
+            "open_issues": 0,
             "owner": "dchiji-ntt",
             "repo": "iterand",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1046,12 +1479,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Neurips 2021] Sparse Training via Boosting Pruning Plasticity with Neuroregeneration ",
+            "homepage": null,
             "id": 383395165,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-11T03:51:04Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "GraNet",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "deep-learning",
+              "dynamicsparsetraining",
+              "graduallymagnitudepruning",
+              "granet",
+              "neuroregeneration",
+              "sparsetraining"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1062,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for reproducing \"AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks\" (NeurIPS 2021)",
+            "homepage": null,
             "id": 421434836,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-09T12:29:54Z",
+            "open_issues": 0,
             "owner": "IST-DASLab",
             "repo": "ACDC",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1078,12 +1528,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RobustBench: a standardized adversarial robustness benchmark [NeurIPS 2021 Benchmarks and Datasets Track]",
+            "homepage": "https://robustbench.github.io",
             "id": 273564830,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T01:24:12Z",
+            "open_issues": 11,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 782
+            "stars": 782,
+            "topics": [
+              "adversarial-machine-learning",
+              "adversarial-robustness",
+              "benchmark",
+              "model-zoo"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1094,12 +1554,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CHIP: CHannel Independence-based Pruning for Compact Neural Networks (NeruIPS 2021).",
+            "homepage": null,
             "id": 420880807,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-10T02:42:10Z",
+            "open_issues": 3,
             "owner": "Eclipsess",
             "repo": "CHIP_NeurIPS2021",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "filter-pruning",
+              "model-compression",
+              "pruning",
+              "pytorch",
+              "structured-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1110,12 +1583,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A research library for pytorch-based neural network pruning, compression, and more.",
+            "homepage": "https://people.csail.mit.edu/lucasl/",
             "id": 240403411,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-11-28T01:42:45Z",
+            "open_issues": 11,
             "owner": "lucaslie",
             "repo": "torchprune",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "compression",
+              "coresets",
+              "deep-learning",
+              "filter-pruning",
+              "generalization-ability",
+              "machine-learning",
+              "neural-architecture-search",
+              "neural-networks",
+              "pruning",
+              "pruning-algorithms",
+              "pytorch",
+              "sparsification",
+              "sparsity",
+              "tensor-decomposition",
+              "tinyml",
+              "weight-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1126,12 +1621,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A research library for pytorch-based neural network pruning, compression, and more.",
+            "homepage": "https://people.csail.mit.edu/lucasl/",
             "id": 240403411,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-11-28T01:42:45Z",
+            "open_issues": 11,
             "owner": "lucaslie",
             "repo": "torchprune",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "compression",
+              "coresets",
+              "deep-learning",
+              "filter-pruning",
+              "generalization-ability",
+              "machine-learning",
+              "neural-architecture-search",
+              "neural-networks",
+              "pruning",
+              "pruning-algorithms",
+              "pytorch",
+              "sparsification",
+              "sparsity",
+              "tensor-decomposition",
+              "tinyml",
+              "weight-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1142,12 +1659,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021] Official PyTorch Code of Scaling Up Exact Neural Network Compression by ReLU Stability",
+            "homepage": null,
             "id": 419137007,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-27T23:49:12Z",
+            "open_issues": 0,
             "owner": "yuxwind",
             "repo": "ExactCompression",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "lossless-compression-algorithm",
+              "network-compression"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1158,12 +1683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of our paper accepted by NeurIPS 2021 -- Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme",
+            "homepage": null,
             "id": 421255098,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-04T08:12:32Z",
+            "open_issues": 2,
             "owner": "SJLeo",
             "repo": "GCC",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1174,12 +1704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 374490621,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-07-05T14:40:28Z",
+            "open_issues": 0,
             "owner": "mbarsbey",
             "repo": "sgd_comp_gen",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1190,12 +1725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ResRep: Lossless CNN Pruning via Decoupling Remembering and Forgetting (ICCV 2021)",
+            "homepage": null,
             "id": 277747666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-01T06:55:31Z",
+            "open_issues": 4,
             "owner": "DingXiaoH",
             "repo": "ResRep",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1206,12 +1746,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Code release for \"Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks\"",
+            "homepage": "https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf",
             "id": 389839073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-24T04:38:14Z",
+            "open_issues": 2,
             "owner": "yikaiw",
             "repo": "SNN",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "binary-neural-networks",
+              "bnn",
+              "iccv2021",
+              "snn",
+              "sub-bit-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1222,12 +1773,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Group Fisher Pruning for Practical Network Compression(ICML2021)",
+            "homepage": null,
             "id": 367299355,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-24T05:30:41Z",
+            "open_issues": 6,
             "owner": "jshilong",
             "repo": "FisherPruning",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "network-compression",
+              "pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1238,12 +1797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370602257,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-24T13:01:59Z",
+            "open_issues": 0,
             "owner": "liuguoyou",
             "repo": "Towards-Compact-CNNs-via-Collaborative-Compression",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1254,12 +1818,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using ideas from product quantization for state-of-the-art neural network compression.",
+            "homepage": null,
             "id": 306659116,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-14T02:03:31Z",
+            "open_issues": 2,
             "owner": "uber-research",
             "repo": "permute-quantize-finetune",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "deep-learning",
+              "network-compression",
+              "vector-quantization"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1270,12 +1843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR2021 Content-Aware GAN Compression",
+            "homepage": null,
             "id": 350859413,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-05T19:33:22Z",
+            "open_issues": 6,
             "owner": "lychenyoko",
             "repo": "content-aware-gan-compression",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1286,12 +1864,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identify a binary weight or binary weight and activation subnetwork within a randomly initialized network by only pruning and binarizing the network.",
+            "homepage": null,
             "id": 348154009,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-24T01:21:41Z",
+            "open_issues": 2,
             "owner": "chrundle",
             "repo": "biprop",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "binary-weights",
+              "imagenet",
+              "multi-prize-tickets",
+              "subnetwork"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1302,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In progress.",
+            "homepage": null,
             "id": 348925887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-26T17:09:26Z",
+            "open_issues": 2,
             "owner": "jaeho-lee",
             "repo": "layer-adaptive-sparsity",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1318,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for the paper \"A Gradient Flow Framework for Analyzing Network Pruning\"",
+            "homepage": null,
             "id": 298163592,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-31T01:49:00Z",
+            "open_issues": 0,
             "owner": "EkdeepSLubana",
             "repo": "flowandprune",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1334,12 +1932,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'21] Neural Pruning via Growing Regularization (PyTorch)",
+            "homepage": null,
             "id": 321553953,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-15T15:31:17Z",
+            "open_issues": 1,
             "owner": "MingSun-Tse",
             "repo": "Regularization-Pruning",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "efficient-neural-networks",
+              "filter-pruning",
+              "model-compression",
+              "pruning",
+              "regularization"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1350,12 +1959,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation \"ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations\"",
+            "homepage": null,
             "id": 293493341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-29T04:36:05Z",
+            "open_issues": 5,
             "owner": "transmuteAI",
             "repo": "ChipNet",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "budget-aware",
+              "continuous-relexation",
+              "heaviside",
+              "iclr2021",
+              "pruning",
+              "structured"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1366,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Pruning That Matters: A Case Study on Retraining Variants (ICLR 2021)",
+            "homepage": null,
             "id": 407948690,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-19T04:47:40Z",
+            "open_issues": 0,
             "owner": "lehduong",
             "repo": "NPTM",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -1388,12 +2014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Continuous Sparsification, a method for pruning and ticket search in deep networks",
+            "homepage": null,
             "id": 226453333,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-10T10:39:52Z",
+            "open_issues": 1,
             "owner": "lolemacs",
             "repo": "continuous-sparsification",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1404,12 +2035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and checkpoints of compressed networks for the paper titled \"HYDRA: Pruning Adversarially Robust Neural Networks\" (NeurIPS 2020) (https://arxiv.org/abs/2002.10509). ",
+            "homepage": "http://vsehwag.github.io/hydra",
             "id": 242780305,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-22T17:07:10Z",
+            "open_issues": 0,
             "owner": "inspire-group",
             "repo": "hydra",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1420,12 +2056,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Block Sparse movement pruning",
+            "homepage": null,
             "id": 309642685,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-26T15:43:14Z",
+            "open_issues": 4,
             "owner": "huggingface",
             "repo": "block_movement_pruning",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1436,12 +2077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot",
+            "homepage": null,
             "id": 305602357,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-08T06:22:39Z",
+            "open_issues": 1,
             "owner": "JingtongSu",
             "repo": "sanity-checking-pruning",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1452,12 +2098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neuron Merging: Compensating for Pruned Neurons (NeurIPS 2020)",
+            "homepage": null,
             "id": 303059497,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-04T08:49:38Z",
+            "open_issues": 4,
             "owner": "friendshipkim",
             "repo": "neuron-merging",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1468,12 +2119,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Neuron-level Structured Pruning using Polarization Regularizer",
+            "homepage": null,
             "id": 238829794,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-22T04:20:15Z",
+            "open_issues": 8,
             "owner": "polarizationpruning",
             "repo": "PolarizationPruning",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "neurips-2020",
+              "polarization-regularization",
+              "pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1484,12 +2144,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Co-Evolutionary Compression for Unpaired Image Translation\" (ICCV 2019), \"SCOP: Scientific Control for Reliable Neural Network Pruning\" (NeurIPS 2020) and “Manifold Regularized Dynamic Network Pruning” (CVPR 2021).",
+            "homepage": null,
             "id": 207385244,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-15T16:25:08Z",
+            "open_issues": 3,
             "owner": "yehuitang",
             "repo": "Pruning",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "model-compression",
+              "network-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1500,12 +2168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments from \"The Generalization-Stability Tradeoff in Neural Network Pruning\": https://arxiv.org/abs/1906.03728. ",
+            "homepage": null,
             "id": 306260423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-23T21:04:49Z",
+            "open_issues": 0,
             "owner": "bbartoldson",
             "repo": "GeneralizationStabilityTradeoff",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1516,12 +2189,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pruning Filter in Filter(NeurIPS2020)",
+            "homepage": "https://arxiv.org/abs/2009.14410",
             "id": 299803677,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-03T09:05:32Z",
+            "open_issues": 2,
             "owner": "fxmeng",
             "repo": "Pruning-Filter-in-Filter",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "cuda",
+              "filters",
+              "modelcompression",
+              "pruning",
+              "pytorch",
+              "skeleton",
+              "stripe"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1532,12 +2218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Position-based Scaled Gradient for Model Quantization and Pruning Code (NeurIPS 2020)",
+            "homepage": null,
             "id": 299804862,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-12T01:59:33Z",
+            "open_issues": 1,
             "owner": "Jangho-Kim",
             "repo": "PSG-pytorch",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1548,12 +2239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 270856897,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-25T10:58:54Z",
+            "open_issues": 5,
             "owner": "ganguli-lab",
             "repo": "Synaptic-Flow",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1564,12 +2260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(ECCV'2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning",
+            "homepage": null,
             "id": 210788586,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T06:13:42Z",
+            "open_issues": 19,
             "owner": "anonymous47823493",
             "repo": "EagleEye",
-            "stars": 308
+            "stars": 308,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1580,12 +2281,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of \"DHP: Differentiable Meta Pruning via HyperNetworks\".",
+            "homepage": null,
             "id": 251271605,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-17T10:59:29Z",
+            "open_issues": 2,
             "owner": "ofsoundof",
             "repo": "dhp",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "differentiable",
+              "hypernetworks",
+              "meta-learning",
+              "network-compression",
+              "pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1596,12 +2308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of our paper accepted by IJCAI 2020 -- Channel Pruning via Automatic Structure Search ",
+            "homepage": "https://arxiv.org/abs/2001.08565",
             "id": 225759924,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-11T16:54:47Z",
+            "open_issues": 4,
             "owner": "lmbxmu",
             "repo": "ABCPruner",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1612,12 +2329,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soft Threshold Weight Reparameterization for Learnable Sparsity",
+            "homepage": "https://homes.cs.washington.edu/~kusupati/#Kusupati20",
             "id": 254787333,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-15T23:11:44Z",
+            "open_issues": 6,
             "owner": "RAIVNLab",
             "repo": "STR",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "cnn",
+              "edge-machine-learning",
+              "efficient-inference",
+              "icml",
+              "icml-2020",
+              "icml2020",
+              "imagenet",
+              "learnable-sparsity",
+              "resource-efficient",
+              "soft-threshold-reparameterization",
+              "soft-thresholding",
+              "sparsity",
+              "sparsity-optimization",
+              "str"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1628,12 +2365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNN channel pruning, LeGR, MorphNet, AMC. Codebase for paper \"LeGR: Filter Pruning via Learned Global Ranking\"",
+            "homepage": null,
             "id": 183944015,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-17T18:46:41Z",
+            "open_issues": 2,
             "owner": "enyac-group",
             "repo": "LeGR",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1644,12 +2386,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of our paper accepted by CVPR 2020 (Oral) -- HRank: Filter Pruning using High-Rank Feature Map",
+            "homepage": "https://128.84.21.199/abs/2002.10179",
             "id": 222231732,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-11T16:48:26Z",
+            "open_issues": 24,
             "owner": "lmbxmu",
             "repo": "HRank",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "acceleration",
+              "compression",
+              "pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1660,12 +2411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 254145556,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2020-06-13T05:31:31Z",
+            "open_issues": 1,
             "owner": "Zx55",
             "repo": "dmcp",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1676,12 +2432,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression. CVPR2020.",
+            "homepage": null,
             "id": 247341525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-17T12:27:00Z",
+            "open_issues": 4,
             "owner": "ofsoundof",
             "repo": "group_sparsity",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "filter-pruning",
+              "group-sparsity",
+              "low-rank-approximation",
+              "network-compression",
+              "proximal-gradient-descent"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1692,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProxSGD algorithm in TensorFlow",
+            "homepage": null,
             "id": 239752034,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-03-02T08:34:11Z",
+            "open_issues": 0,
             "owner": "optyang",
             "repo": "proxsgd",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1708,12 +2480,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lookahead: A Far-sighted Alternative of Magnitude-based Pruning (ICLR 2020)",
+            "homepage": "https://openreview.net/forum?id=ryl3ygHYDB",
             "id": 210549441,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-25T10:52:04Z",
+            "open_issues": 3,
             "owner": "alinlab",
             "repo": "lookahead_pruning",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "network-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1724,12 +2503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 238337822,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-04T21:54:22Z",
+            "open_issues": 2,
             "owner": "lottery-ticket",
             "repo": "rewinding-iclr20-public",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -1746,12 +2530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 200944667,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-24T21:55:09Z",
+            "open_issues": 2,
             "owner": "uber-research",
             "repo": "deconstructing-lottery-tickets",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1762,12 +2551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Global Sparse Momentum SGD for pruning very deep neural networks",
+            "homepage": null,
             "id": 210501927,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-08T09:09:54Z",
+            "open_issues": 2,
             "owner": "DingXiaoH",
             "repo": "GSM-SGD",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1778,12 +2572,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated deep learning algorithms implemented in PyTorch.",
+            "homepage": null,
             "id": 168538768,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-24T22:18:16Z",
+            "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581
+            "stars": 1581,
+            "topics": [
+              "autodl",
+              "automl",
+              "nas",
+              "neural-architecture-search",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1794,12 +2599,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for the NuerIPS'19 paper \"Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks\"",
+            "homepage": null,
             "id": 208997510,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-21T15:34:07Z",
+            "open_issues": 11,
             "owner": "youzhonghui",
             "repo": "gate-decorator-pruning",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "channel-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1810,12 +2622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'2019] Shupeng Gui, Haotao Wang, Haichuan Yang, Chen Yu, Zhangyang Wang, Ji Liu, “Model Compression with Adversarial Robustness: A Unified Optimization Framework”",
+            "homepage": null,
             "id": 212119448,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-30T16:30:16Z",
+            "open_issues": 2,
             "owner": "VITA-Group",
             "repo": "ATMC",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "model-compression",
+              "pruning",
+              "quantization",
+              "robustness",
+              "unified-optimization-framework"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1826,12 +2649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for \"Adversarial Robustness vs Model Compression, or Both?\"",
+            "homepage": null,
             "id": 200764744,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-22T14:21:28Z",
+            "open_issues": 3,
             "owner": "yeshaokai",
             "repo": "Robustness-Aware-Pruning-ADMM",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1842,12 +2670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning. In ICCV 2019.",
+            "homepage": null,
             "id": 199413427,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-05T01:23:54Z",
+            "open_issues": 6,
             "owner": "liuzechun",
             "repo": "MetaPruning",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1858,12 +2691,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for IJCAI2019 paper",
+            "homepage": "https://arxiv.org/abs/1906.10337",
             "id": 172853281,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-05T12:25:13Z",
+            "open_issues": 0,
             "owner": "ZJULearning",
             "repo": "COP",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "computer-vision",
+              "deep-compression",
+              "deep-learning",
+              "pruning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1874,12 +2718,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration (CVPR 2019 Oral)",
+            "homepage": "https://arxiv.org/abs/1811.00250",
             "id": 177763869,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-31T06:50:25Z",
+            "open_issues": 12,
             "owner": "he-y",
             "repo": "filter-pruning-geometric-median",
-            "stars": 617
+            "stars": 617,
+            "topics": [
+              "model-compression",
+              "pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1890,12 +2743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for GAL.",
+            "homepage": null,
             "id": 177254527,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-13T09:23:50Z",
+            "open_issues": 5,
             "owner": "ShaohuiLin",
             "repo": "GAL",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1906,12 +2764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of Centripetal SGD",
+            "homepage": null,
             "id": 173526887,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-08T09:09:26Z",
+            "open_issues": 2,
             "owner": "DingXiaoH",
             "repo": "Centripetal-SGD",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1922,12 +2785,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference ImageNet implementation of SelecSLS CNN architecture proposed in the SIGGRAPH 2020 paper \"XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera\". The repository also includes code for pruning the model based on implicit sparsity emerging from adaptive gradient descent methods, as detailed in the CVPR 2019 paper \"On implicit filter level sparsity in Convolutional Neural Networks\".",
+            "homepage": null,
             "id": 197648376,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-23T22:15:36Z",
+            "open_issues": 1,
             "owner": "mehtadushy",
             "repo": "SelecSLS-Pytorch",
-            "stars": 338
+            "stars": 338,
+            "topics": [
+              "cnn",
+              "cvpr2019",
+              "deep-learning",
+              "efficient",
+              "efficient-architectures",
+              "imagenet",
+              "pruning",
+              "pytorch",
+              "pytorch-implementation",
+              "siggraph",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1938,12 +2818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pruning Neural Networks with Taylor criterion in Pytorch",
+            "homepage": null,
             "id": 178446951,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-11-03T06:24:46Z",
+            "open_issues": 6,
             "owner": "NVlabs",
             "repo": "Taylor_pruning",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1954,12 +2839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Partial Order Pruning: for  Best Speed/Accuracy Trade-off in Neural Architecture Search",
+            "homepage": null,
             "id": 174256492,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2020-09-23T09:03:00Z",
+            "open_issues": 1,
             "owner": "lixincn2015",
             "repo": "Partial-Order-Pruning",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1970,12 +2860,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis\" https://arxiv.org/abs/1905.05934",
+            "homepage": null,
             "id": 186167204,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-03T00:06:55Z",
+            "open_issues": 1,
             "owner": "alecwangcq",
             "repo": "EigenDamage-Pytorch",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "deep-learning",
+              "fisher-matrix",
+              "machine-learning",
+              "network-pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -1986,12 +2887,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A reimplementation of \"The Lottery Ticket Hypothesis\" (Frankle and Carbin) on MNIST.",
+            "homepage": "https://arxiv.org/abs/1803.03635",
             "id": 155907788,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-27T12:06:34Z",
+            "open_issues": 13,
             "owner": "google-research",
             "repo": "lottery-ticket-hypothesis",
-            "stars": 729
+            "stars": 729,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2002,12 +2908,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY",
+            "homepage": null,
             "id": 171081403,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-06-26T15:39:24Z",
+            "open_issues": 1,
             "owner": "namhoonlee",
             "repo": "snip-public",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "network-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2018,12 +2931,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mayo: Auto-generation of hardware-friendly deep neural networks. Dynamic Channel Pruning: Feature Boosting and Suppression.",
+            "homepage": null,
             "id": 131940010,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-12-10T17:23:33Z",
+            "open_issues": 3,
             "owner": "deep-fry",
             "repo": "mayo",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "channel-pruning",
+              "deep-learning",
+              "hardware-acceleration",
+              "machine-learning",
+              "model-compression"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2034,12 +2958,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rethinking the Value of Network Pruning (Pytorch) (ICLR 2019)",
+            "homepage": null,
             "id": 152529085,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-07T10:04:45Z",
+            "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512
+            "stars": 1512,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "network-pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2050,12 +2984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of the paper \"Dynamic Sparse Graph for Efficient Deep Learning\" using CUDA. ",
+            "homepage": null,
             "id": 159979257,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2018-12-12T23:56:50Z",
+            "open_issues": 0,
             "owner": "mtcrawshaw",
             "repo": "dynamic-sparse-graph",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -2072,12 +3011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for “Discrimination-aware-Channel-Pruning-for-Deep-Neural-Networks”",
+            "homepage": null,
             "id": 155137478,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-10-29T07:14:47Z",
+            "open_issues": 9,
             "owner": "SCUT-AILab",
             "repo": "DCP",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2088,12 +3032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV18] Constraint-Aware Deep Neural Network Compression",
+            "homepage": null,
             "id": 140078903,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-11T12:41:12Z",
+            "open_issues": 0,
             "owner": "ChanganVR",
             "repo": "ConstraintAwareCompression",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2104,12 +3053,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prune DNN using Alternating Direction Method of Multipliers (ADMM)",
+            "homepage": null,
             "id": 130260942,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-15T16:08:57Z",
+            "open_issues": 6,
             "owner": "kaiqzhan",
             "repo": "admm-pruning",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2120,12 +3074,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+            "homepage": "https://pocketflow.github.io",
             "id": 155518202,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-31T22:23:33Z",
+            "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2909
+            "stars": 2909,
+            "topics": [
+              "automl",
+              "computer-vision",
+              "deep-learning",
+              "mobile-app",
+              "model-compression"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2136,12 +3101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 130162135,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-17T03:47:04Z",
+            "open_issues": 0,
             "owner": "TuSimple",
             "repo": "sparse-structure-selection",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2152,12 +3122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for our paper \"Coreset-Based Neural Network Compression\", published in ECCV 2018 ",
+            "homepage": null,
             "id": 150186066,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-11T06:57:41Z",
+            "open_issues": 1,
             "owner": "metro-smiles",
             "repo": "CNN_Compression",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2168,12 +3143,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks",
+            "homepage": "https://arxiv.org/abs/1808.06866",
             "id": 130997001,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-02T11:06:58Z",
+            "open_issues": 15,
             "owner": "he-y",
             "repo": "soft-filter-pruning",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "model-compression",
+              "pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2184,12 +3168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compressing Neural Networks using the Variational Information Bottleneck",
+            "homepage": null,
             "id": 135575114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-03T23:08:33Z",
+            "open_issues": 5,
             "owner": "zhuchen03",
             "repo": "VIBNet",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2200,12 +3189,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2018] \"Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions\"",
+            "homepage": null,
             "id": 136533571,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-31T06:23:48Z",
+            "open_issues": 0,
             "owner": "VITA-Group",
             "repo": "Deep-K-Means-pytorch",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "compression",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "neural-network-compression",
+              "paper",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2216,12 +3218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+            "homepage": "https://arxiv.org/abs/1711.05769",
             "id": 111019823,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-07T03:57:55Z",
+            "open_issues": 3,
             "owner": "arunmallya",
             "repo": "packnet",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2232,12 +3239,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow codes for \"Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers\"",
+            "homepage": null,
             "id": 153234360,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-14T10:28:32Z",
+            "open_issues": 2,
             "owner": "bobye",
             "repo": "batchnorm_prune",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "batch-normalization",
+              "deep-learning",
+              "network-pruning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -2254,12 +3271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee",
+            "homepage": null,
             "id": 109018944,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-19T14:57:42Z",
+            "open_issues": 5,
             "owner": "DNNToolBox",
             "repo": "Net-Trim-v1",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2270,12 +3292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for Layer-wise Optimal Brain Surgeon",
+            "homepage": null,
             "id": 107654756,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-22T08:19:09Z",
+            "open_issues": 10,
             "owner": "csyhhu",
             "repo": "L-OBS",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2286,12 +3313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "caffe model of ICCV'17 paper - ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression https://arxiv.org/abs/1707.06342",
+            "homepage": null,
             "id": 99080722,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-19T11:07:58Z",
+            "open_issues": 8,
             "owner": "Roll920",
             "repo": "ThiNet",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2302,12 +3334,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Channel Pruning for Accelerating Very Deep Neural Networks (ICCV'17)",
+            "homepage": "https://arxiv.org/abs/1707.06168",
             "id": 100935205,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-02T06:37:43Z",
+            "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1088
+            "stars": 1088,
+            "topics": [
+              "acceleration",
+              "channel-pruning",
+              "deep-neural-networks",
+              "image-classification",
+              "image-recognition",
+              "model-compression",
+              "object-detection"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2318,12 +3363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Slimming (Pytorch) (ICCV 2017)",
+            "homepage": null,
             "id": 139824749,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-06T07:25:09Z",
+            "open_issues": 62,
             "owner": "Eric-mingjie",
             "repo": "network-slimming",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "channel-pruning",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "pytorch",
+              "sparsity"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2334,12 +3390,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rethinking the Value of Network Pruning (Pytorch) (ICLR 2019)",
+            "homepage": null,
             "id": 152529085,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-07T10:04:45Z",
+            "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512
+            "stars": 1512,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "network-pruning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2350,12 +3416,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+            "homepage": "https://pocketflow.github.io",
             "id": 155518202,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-31T22:23:33Z",
+            "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2909
+            "stars": 2909,
+            "topics": [
+              "automl",
+              "computer-vision",
+              "deep-learning",
+              "mobile-app",
+              "model-compression"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -2372,12 +3449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe implementation for dynamic network surgery. ",
+            "homepage": null,
             "id": 65965025,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-15T17:16:49Z",
+            "open_issues": 7,
             "owner": "yiwenguo",
             "repo": "Dynamic-Network-Surgery",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2388,12 +3470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Compression on AlexNet",
+            "homepage": null,
             "id": 57341550,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-05T02:15:30Z",
+            "open_issues": 1,
             "owner": "songhan",
             "repo": "Deep-Compression-AlexNet",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -2410,12 +3497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 125818504,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-25T14:37:18Z",
+            "open_issues": 2,
             "owner": "memoiry",
             "repo": "Awesome-model-compression-and-acceleration",
-            "stars": 666
+            "stars": 666,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2426,12 +3518,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of recent methods on (deep) neural network compression and acceleration.",
+            "homepage": null,
             "id": 148949625,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-04T12:12:45Z",
+            "open_issues": 1,
             "owner": "MingSun-Tse",
             "repo": "Efficient-Deep-Learning",
-            "stars": 957
+            "stars": 957,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "efficient-deep-learning",
+              "knowledge-distillation",
+              "model-compression",
+              "network-pruning"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2442,12 +3546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " collection of works aiming at reducing model sizes or the ASIC/FPGA accelerator for machine learning",
+            "homepage": null,
             "id": 65838002,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-03T16:20:59Z",
+            "open_issues": 1,
             "owner": "zssloth",
             "repo": "Embedded-Neural-Network",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "asic",
+              "compression",
+              "deep-learning",
+              "fpga",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2458,12 +3573,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of high-quality (newest) AutoML works and lightweight models including 1.) Neural Architecture Search, 2.) Lightweight Structures, 3.) Model Compression, Quantization and Acceleration, 4.) Hyperparameter Optimization, 5.) Automated Feature Engineering.",
+            "homepage": null,
             "id": 163359611,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-19T07:06:34Z",
+            "open_issues": 1,
             "owner": "guan-yuan",
             "repo": "Awesome-AutoML-and-Lightweight-Models",
-            "stars": 855
+            "stars": 855,
+            "topics": [
+              "architecture-search",
+              "automated-feature-engineering",
+              "automl",
+              "awesome-list",
+              "hyperparameter-optimization",
+              "meta-learning",
+              "model-acceleration",
+              "model-compression",
+              "nas",
+              "neural-architecture-search",
+              "pytorch",
+              "quantization",
+              "quantized-neural-network",
+              "quantized-training",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2474,12 +3610,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers for deep neural network compression and acceleration",
+            "homepage": null,
             "id": 125077034,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-21T14:59:46Z",
+            "open_issues": 0,
             "owner": "chester256",
             "repo": "Model-Compression-Papers",
-            "stars": 402
+            "stars": 402,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "model-acceleration",
+              "model-compression",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2490,12 +3637,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "knowledge distillation papers",
+            "homepage": null,
             "id": 161295505,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-10T02:34:12Z",
+            "open_issues": 2,
             "owner": "lhyfst",
             "repo": "knowledge-distillation-papers",
-            "stars": 765
+            "stars": 765,
+            "topics": [
+              "dark-knowledge",
+              "knowledge-distillation",
+              "model-compression",
+              "paper",
+              "reading-list"
+            ]
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         },
@@ -2506,12 +3664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network acceleration methods",
+            "homepage": null,
             "id": 85676222,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-19T07:26:40Z",
+            "open_issues": 1,
             "owner": "mrgloom",
             "repo": "Network-Speed-and-Compression",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
         }
@@ -2520,15 +3683,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:26:32.621Z",
+    "last_updated": "2026-08-29T04:25:03.610Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of neural network pruning resources.",
+      "homepage": null,
       "id": 189363210,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-04T07:18:56Z",
+      "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2497
+      "stars": 2497,
+      "topics": [
+        "awesome-list",
+        "model-acceleration",
+        "model-compression",
+        "pruning"
+      ]
     },
     "original_repository_sha": "45ac58b4389aea4c0b2c2fcf92861d6855dee8fa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Pruning",
