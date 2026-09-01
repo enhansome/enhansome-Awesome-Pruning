@@ -1752,7 +1752,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-07-24T04:38:14Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "yikaiw",
             "repo": "SNN",
             "stars": 34,
@@ -2065,7 +2065,7 @@
             "open_issues": 4,
             "owner": "huggingface",
             "repo": "block_movement_pruning",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:45:20.972Z",
+    "last_updated": "2026-09-01T07:53:42.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
