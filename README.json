@@ -910,7 +910,7 @@
             "open_issues": 1,
             "owner": "thu-ml",
             "repo": "IODF",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:53:42.354Z",
+    "last_updated": "2026-09-02T07:11:16.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
