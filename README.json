@@ -2727,7 +2727,7 @@
             "open_issues": 12,
             "owner": "he-y",
             "repo": "filter-pruning-geometric-median",
-            "stars": 617,
+            "stars": 616,
             "topics": [
               "model-compression",
               "pruning",
@@ -3227,7 +3227,7 @@
             "open_issues": 3,
             "owner": "arunmallya",
             "repo": "packnet",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:15:51.010Z",
+    "last_updated": "2026-09-04T07:18:48.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
