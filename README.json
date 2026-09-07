@@ -418,7 +418,7 @@
             "open_issues": 12,
             "owner": "NVlabs",
             "repo": "HALP",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -2269,7 +2269,7 @@
             "open_issues": 19,
             "owner": "anonymous47823493",
             "repo": "EagleEye",
-            "stars": 308,
+            "stars": 309,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:12:21.443Z",
+    "last_updated": "2026-09-07T07:25:20.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
