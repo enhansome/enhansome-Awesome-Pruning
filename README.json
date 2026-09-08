@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -3372,7 +3372,7 @@
             "open_issues": 62,
             "owner": "Eric-mingjie",
             "repo": "network-slimming",
-            "stars": 918,
+            "stars": 919,
             "topics": [
               "channel-pruning",
               "convolutional-neural-networks",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:25:20.448Z",
+    "last_updated": "2026-09-08T07:19:22.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
