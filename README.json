@@ -418,7 +418,7 @@
             "open_issues": 12,
             "owner": "NVlabs",
             "repo": "HALP",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 11,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 782,
+            "stars": 783,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:28:01.953Z",
+    "last_updated": "2026-09-10T07:24:10.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
