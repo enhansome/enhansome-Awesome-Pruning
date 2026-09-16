@@ -331,7 +331,7 @@
             "open_issues": 3,
             "owner": "IST-DASLab",
             "repo": "OBC",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -2967,7 +2967,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3399,7 +3399,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:54:26.200Z",
+    "last_updated": "2026-09-16T07:47:03.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
