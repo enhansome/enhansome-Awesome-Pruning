@@ -2055,7 +2055,7 @@
           "description": "NeurIPS  PyTorch(Author)",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Block Sparse movement pruning",
             "homepage": null,
             "id": 309642685,
@@ -3479,7 +3479,7 @@
             "open_issues": 1,
             "owner": "songhan",
             "repo": "Deep-Compression-AlexNet",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:50:56.528Z",
+    "last_updated": "2026-09-18T07:29:44.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
