@@ -1537,7 +1537,7 @@
             "open_issues": 11,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -2679,7 +2679,7 @@
             "open_issues": 6,
             "owner": "liuzechun",
             "repo": "MetaPruning",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -2967,7 +2967,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1513,
+            "stars": 1512,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2911,
+            "stars": 2910,
             "topics": [
               "automl",
               "computer-vision",
@@ -3399,7 +3399,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1513,
+            "stars": 1512,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2911,
+            "stars": 2910,
             "topics": [
               "automl",
               "computer-vision",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:29:44.716Z",
+    "last_updated": "2026-09-19T07:25:30.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
