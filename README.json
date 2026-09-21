@@ -1537,7 +1537,7 @@
             "open_issues": 11,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 784,
+            "stars": 786,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "uber-research",
             "repo": "deconstructing-lottery-tickets",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:49:14.852Z",
+    "last_updated": "2026-09-21T08:03:43.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
