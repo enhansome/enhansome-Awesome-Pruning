@@ -1,6 +1,6 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,914 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,193 | 🐛 37 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,914 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,195 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
 Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 to add papers.
 
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
