@@ -2727,7 +2727,7 @@
             "open_issues": 12,
             "owner": "he-y",
             "repo": "filter-pruning-geometric-median",
-            "stars": 615,
+            "stars": 614,
             "topics": [
               "model-compression",
               "pruning",
@@ -3152,7 +3152,7 @@
             "open_issues": 15,
             "owner": "he-y",
             "repo": "soft-filter-pruning",
-            "stars": 386,
+            "stars": 385,
             "topics": [
               "model-compression",
               "pruning",
@@ -3343,7 +3343,7 @@
             "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1086,
+            "stars": 1087,
             "topics": [
               "acceleration",
               "channel-pruning",
@@ -3372,7 +3372,7 @@
             "open_issues": 62,
             "owner": "Eric-mingjie",
             "repo": "network-slimming",
-            "stars": 919,
+            "stars": 918,
             "topics": [
               "channel-pruning",
               "convolutional-neural-networks",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:48:58.834Z",
+    "last_updated": "2026-09-23T07:51:24.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2497,
+      "stars": 2496,
       "topics": [
         "awesome-list",
         "model-acceleration",
