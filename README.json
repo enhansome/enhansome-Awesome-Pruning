@@ -331,7 +331,7 @@
             "open_issues": 3,
             "owner": "IST-DASLab",
             "repo": "OBC",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -2153,7 +2153,7 @@
             "open_issues": 3,
             "owner": "yehuitang",
             "repo": "Pruning",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "model-compression",
               "network-pruning"
@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1582,
+            "stars": 1581,
             "topics": [
               "autodl",
               "automl",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:52:49.741Z",
+    "last_updated": "2026-09-27T08:23:33.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
