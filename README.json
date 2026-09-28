@@ -931,7 +931,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "DepthShrinker",
-            "stars": 73,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -3479,7 +3479,7 @@
             "open_issues": 1,
             "owner": "songhan",
             "repo": "Deep-Compression-AlexNet",
-            "stars": 673,
+            "stars": 674,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:23:33.685Z",
+    "last_updated": "2026-09-28T08:49:10.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2497,
+      "stars": 2496,
       "topics": [
         "awesome-list",
         "model-acceleration",

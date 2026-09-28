@@ -1,8 +1,8 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
-Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 to add papers.
+Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04 to add papers.
 
 ## Table of Contents
 
@@ -188,7 +188,7 @@ The related papers are categorized as below:
 | [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)                                                                                                     | NeurIPS |   `W`   |               [PyTorch(Author)](https://github.com/dchiji-ntt/iterand) ⭐ 10 \| 🐛 0 \| 🌐 Python \| 📅 2021-10-05               |
 | [Sparse Training via Boosting Pruning Plasticity with Neuroregeneration](https://papers.nips.cc/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)                                                                                                        | NeurIPS |   `W`   |                [PyTorch(Author)](https://github.com/VITA-Group/GraNet) ⭐ 31 \| 🐛 0 \| 🌐 Python \| 📅 2023-02-11               |
 | [AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks](https://papers.nips.cc/paper/2021/hash/48000647b315f6f00f913caa757a70b3-Abstract.html)                                                                                                   | NeurIPS |   `W`   |                 [PyTorch(Author)](https://github.com/IST-DASLab/ACDC) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2021-11-09                |
-| [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://papers.nips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)                                                                                          | NeurIPS |   `W`   |            [PyTorch(Author)](https://github.com/RobustBench/robustbench) ⭐ 786 \| 🐛 12 \| 🌐 Python \| 📅 2026-04-14           |
+| [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://papers.nips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)                                                                                          | NeurIPS |   `W`   |            [PyTorch(Author)](https://github.com/RobustBench/robustbench) ⭐ 787 \| 🐛 12 \| 🌐 Python \| 📅 2026-04-14           |
 | [Rethinking the Pruning Criteria for Convolutional Neural Network](https://papers.nips.cc/paper/2021/hash/87ae6fb631f7c8a627e8e28785d9992d-Abstract.html)                                                                                                              | NeurIPS |   `F`   |                                                                -                                                                |
 | [Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://papers.nips.cc/paper/2021/hash/a376033f78e144f494bfc743c0be3330-Abstract.html)                                                                                                     | NeurIPS |   `F`   |                                   [PyTorch(Author)](https://github.com/tianyic/onlytrainonce)                                   |
 | [CHIP: CHannel Independence-based Pruning for Compact Neural Networks](https://papers.nips.cc/paper/2021/hash/ce6babd060aa46c61a5777902cca78af-Abstract.html)                                                                                                          | NeurIPS |   `F`   |           [PyTorch(Author)](https://github.com/Eclipsess/CHIP_NeurIPS2021) ⭐ 41 \| 🐛 3 \| 🌐 Python \| 📅 2022-09-10           |
@@ -368,7 +368,7 @@ The related papers are categorized as below:
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :--: | :--------------------------------------------------------------------------------------------------------------: |
 | [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)                                                                   |     NeurIPS     |  `W` |   [Caffe(Author)](https://github.com/yiwenguo/Dynamic-Network-Surgery) ⭐ 190 \| 🐛 7 \| 🌐 C++ \| 📅 2017-08-15  |
 | [Learning the Number of Neurons in Deep Networks](https://proceedings.neurips.cc/paper/2016/hash/6e7d2da6d3953058db75714ac400b584-Abstract.html) |     NeurIPS     |  `F` |                                                         -                                                        |
-| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)     | ICLR **(Best)** |  `W` | [Caffe(Author)](https://github.com/songhan/Deep-Compression-AlexNet) ⭐ 673 \| 🐛 1 \| 🌐 Python \| 📅 2022-03-05 |
+| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)     | ICLR **(Best)** |  `W` | [Caffe(Author)](https://github.com/songhan/Deep-Compression-AlexNet) ⭐ 674 \| 🐛 1 \| 🌐 Python \| 📅 2022-03-05 |
 
 ### 2015
 
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
