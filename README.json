@@ -1015,7 +1015,7 @@
             "open_issues": 2,
             "owner": "SHI-Labs",
             "repo": "DiSparse-Multitask-Model-Compression",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2910,
+            "stars": 2912,
             "topics": [
               "automl",
               "computer-vision",
@@ -3152,7 +3152,7 @@
             "open_issues": 15,
             "owner": "he-y",
             "repo": "soft-filter-pruning",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "model-compression",
               "pruning",
@@ -3343,7 +3343,7 @@
             "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1087,
+            "stars": 1088,
             "topics": [
               "acceleration",
               "channel-pruning",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2910,
+            "stars": 2912,
             "topics": [
               "automl",
               "computer-vision",
@@ -3527,7 +3527,7 @@
             "open_issues": 1,
             "owner": "MingSun-Tse",
             "repo": "Efficient-Deep-Learning",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T09:08:57.090Z",
+    "last_updated": "2026-10-02T08:42:12.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2496,
+      "stars": 2497,
       "topics": [
         "awesome-list",
         "model-acceleration",
