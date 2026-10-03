@@ -2794,7 +2794,7 @@
             "open_issues": 1,
             "owner": "mehtadushy",
             "repo": "SelecSLS-Pytorch",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "cnn",
               "cvpr2019",
@@ -3493,7 +3493,7 @@
         {
           "node_type": "item",
           "title": "Awesome-model-compression-and-acceleration",
-          "description": null,
+          "description": "memoiry/Awesome-model-compression-and-acceleration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3514,7 +3514,7 @@
         {
           "node_type": "item",
           "title": "EfficientDNNs",
-          "description": null,
+          "description": "MingSun-Tse/Efficient-Deep-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3542,7 +3542,7 @@
         {
           "node_type": "item",
           "title": "Embedded-Neural-Network",
-          "description": null,
+          "description": "zssloth/Embedded-Neural-Network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3569,7 +3569,7 @@
         {
           "node_type": "item",
           "title": "awesome-AutoML-and-Lightweight-Models",
-          "description": null,
+          "description": "guan-yuan/Awesome-AutoML-and-Lightweight-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3606,7 +3606,7 @@
         {
           "node_type": "item",
           "title": "Model-Compression-Papers",
-          "description": null,
+          "description": "chester256/Model-Compression-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3633,7 +3633,7 @@
         {
           "node_type": "item",
           "title": "knowledge-distillation-papers",
-          "description": null,
+          "description": "lhyfst/knowledge-distillation-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3660,7 +3660,7 @@
         {
           "node_type": "item",
           "title": "Network-Speed-and-Compression",
-          "description": null,
+          "description": "mrgloom/Network-Speed-and-Compression",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:42:12.527Z",
+    "last_updated": "2026-10-03T04:27:23.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",

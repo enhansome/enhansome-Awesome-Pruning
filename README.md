@@ -1,8 +1,8 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,202 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,199 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
-Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 or [open an issue](https://github.com/he-y/awesome-Pruning/issues) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 to add papers.
+Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) or [open an issue](https://github.com/he-y/awesome-Pruning/issues) to add papers.
 
 ## Table of Contents
 
@@ -305,7 +305,7 @@ The related papers are categorized as below:
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250)                                                                                      | CVPR **(Oral)** |   `F`   |      [PyTorch(Author)](https://github.com/he-y/filter-pruning-geometric-median) ⭐ 614 \| 🐛 12 \| 🌐 Python \| 📅 2023-08-31      |
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)                                                                                                   |       CVPR      |   `F`   |                  [PyTorch(Author)](https://github.com/ShaohuiLin/GAL) ⭐ 56 \| 🐛 5 \| 🌐 Python \| 📅 2020-05-13                  |
 | [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)                                                                                      |       CVPR      |   `F`   |           [PyTorch(Author)](https://github.com/ShawnDing1994/Centripetal-SGD) ⭐ 64 \| 🐛 2 \| 🌐 Python \| 📅 2022-09-08          |
-| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495), [Extension1](https://arxiv.org/abs/1905.04967), [Extension2](https://openreview.net/forum?id=rylVvNS3hE) |       CVPR      |   `F`   |           [PyTorch(Author)](https://github.com/mehtadushy/SelecSLS-Pytorch) ⭐ 338 \| 🐛 1 \| 🌐 Python \| 📅 2020-07-23           |
+| [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495), [Extension1](https://arxiv.org/abs/1905.04967), [Extension2](https://openreview.net/forum?id=rylVvNS3hE) |       CVPR      |   `F`   |           [PyTorch(Author)](https://github.com/mehtadushy/SelecSLS-Pytorch) ⭐ 339 \| 🐛 1 \| 🌐 Python \| 📅 2020-07-23           |
 | [Structured Pruning of Neural Networks with Budget-Aware Regularization](https://arxiv.org/abs/1811.09332)                                                                                                       |       CVPR      |   `F`   |                                                                 -                                                                 |
 | [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf)                                                                                             |       CVPR      |   `F`   |              [PyTorch(Author)](https://github.com/NVlabs/Taylor_pruning) ⭐ 323 \| 🐛 6 \| 🌐 Python \| 📅 2019-11-03              |
 | [OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks](https://arxiv.org/abs/1905.11664)                                                                                               |       CVPR      |   `F`   |                                                                 -                                                                 |
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
