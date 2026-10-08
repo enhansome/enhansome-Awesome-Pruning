@@ -2044,7 +2044,7 @@
             "open_issues": 0,
             "owner": "inspire-group",
             "repo": "hydra",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2911,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2911,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T08:57:29.084Z",
+    "last_updated": "2026-10-08T09:11:31.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
