@@ -1,6 +1,6 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
 Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) or [open an issue](https://github.com/he-y/awesome-Pruning/issues) to add papers.
 
@@ -188,7 +188,7 @@ The related papers are categorized as below:
 | [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)                                                                                                     | NeurIPS |   `W`   |               [PyTorch(Author)](https://github.com/dchiji-ntt/iterand) ⭐ 10 \| 🐛 0 \| 🌐 Python \| 📅 2021-10-05               |
 | [Sparse Training via Boosting Pruning Plasticity with Neuroregeneration](https://papers.nips.cc/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html)                                                                                                        | NeurIPS |   `W`   |                [PyTorch(Author)](https://github.com/VITA-Group/GraNet) ⭐ 31 \| 🐛 0 \| 🌐 Python \| 📅 2023-02-11               |
 | [AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks](https://papers.nips.cc/paper/2021/hash/48000647b315f6f00f913caa757a70b3-Abstract.html)                                                                                                   | NeurIPS |   `W`   |                 [PyTorch(Author)](https://github.com/IST-DASLab/ACDC) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2021-11-09                |
-| [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://papers.nips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)                                                                                          | NeurIPS |   `W`   |            [PyTorch(Author)](https://github.com/RobustBench/robustbench) ⭐ 787 \| 🐛 12 \| 🌐 Python \| 📅 2026-04-14           |
+| [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://papers.nips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)                                                                                          | NeurIPS |   `W`   |            [PyTorch(Author)](https://github.com/RobustBench/robustbench) ⭐ 788 \| 🐛 12 \| 🌐 Python \| 📅 2026-04-14           |
 | [Rethinking the Pruning Criteria for Convolutional Neural Network](https://papers.nips.cc/paper/2021/hash/87ae6fb631f7c8a627e8e28785d9992d-Abstract.html)                                                                                                              | NeurIPS |   `F`   |                                                                -                                                                |
 | [Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://papers.nips.cc/paper/2021/hash/a376033f78e144f494bfc743c0be3330-Abstract.html)                                                                                                     | NeurIPS |   `F`   |                                   [PyTorch(Author)](https://github.com/tianyic/onlytrainonce)                                   |
 | [CHIP: CHannel Independence-based Pruning for Compact Neural Networks](https://papers.nips.cc/paper/2021/hash/ce6babd060aa46c61a5777902cca78af-Abstract.html)                                                                                                          | NeurIPS |   `F`   |           [PyTorch(Author)](https://github.com/Eclipsess/CHIP_NeurIPS2021) ⭐ 41 \| 🐛 3 \| 🌐 Python \| 📅 2022-09-10           |
@@ -388,10 +388,10 @@ The related papers are categorized as below:
 
 [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers) ⭐ 401 | 🐛 0 | 📅 2021-06-21
 
-[knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) ⭐ 765 | 🐛 2 | 📅 2023-02-10
+[knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) ⭐ 766 | 🐛 2 | 📅 2023-02-10
 
 [Network-Speed-and-Compression](https://github.com/mrgloom/Network-Speed-and-Compression) ⭐ 178 | 🐛 1 | 📅 2021-06-19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
