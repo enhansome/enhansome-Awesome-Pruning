@@ -1223,7 +1223,7 @@
             "open_issues": 16,
             "owner": "HazyResearch",
             "repo": "fly",
-            "stars": 226,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -2395,7 +2395,7 @@
             "open_issues": 24,
             "owner": "lmbxmu",
             "repo": "HRank",
-            "stars": 257,
+            "stars": 256,
             "topics": [
               "acceleration",
               "compression",
@@ -2727,7 +2727,7 @@
             "open_issues": 12,
             "owner": "he-y",
             "repo": "filter-pruning-geometric-median",
-            "stars": 614,
+            "stars": 613,
             "topics": [
               "model-compression",
               "pruning",
@@ -2896,7 +2896,7 @@
             "open_issues": 13,
             "owner": "google-research",
             "repo": "lottery-ticket-hypothesis",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2913,
+            "stars": 2914,
             "topics": [
               "automl",
               "computer-vision",
@@ -3322,7 +3322,7 @@
             "open_issues": 8,
             "owner": "Roll920",
             "repo": "ThiNet",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2913,
+            "stars": 2914,
             "topics": [
               "automl",
               "computer-vision",
@@ -3646,7 +3646,7 @@
             "open_issues": 2,
             "owner": "lhyfst",
             "repo": "knowledge-distillation-papers",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "dark-knowledge",
               "knowledge-distillation",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:20:38.706Z",
+    "last_updated": "2026-10-10T08:41:59.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
