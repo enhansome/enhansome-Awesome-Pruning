@@ -1,6 +1,6 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,198 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
 Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) or [open an issue](https://github.com/he-y/awesome-Pruning/issues) to add papers.
 
@@ -317,7 +317,7 @@ The related papers are categorized as below:
 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)                                                                                                     | ICLR **(Best)** |   `W`   |                   [TensorFlow(Author)](https://github.com/google-research/lottery-ticket-hypothesis) ⚠️ Archived                  |
 | [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)                                                                                                            |       ICLR      |   `W`   |            [TensorFLow(Author)](https://github.com/namhoonlee/snip-public) ⭐ 115 \| 🐛 1 \| 🌐 Python \| 📅 2019-06-26            |
 | [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/abs/1810.05331)                                                                                                                    |       ICLR      |   `F`   |                 [TensorFlow(Author)](https://github.com/deep-fry/mayo) ⭐ 112 \| 🐛 3 \| 🌐 Python \| 📅 2019-12-10                |
-| [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)                                                                                                                                      |       ICLR      |   `F`   |    [PyTorch(Author)](https://github.com/Eric-mingjie/rethinking-network-pruning) ⭐ 1,512 \| 🐛 23 \| 🌐 Python \| 📅 2020-06-07   |
+| [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)                                                                                                                                      |       ICLR      |   `F`   |    [PyTorch(Author)](https://github.com/Eric-mingjie/rethinking-network-pruning) ⭐ 1,513 \| 🐛 23 \| 🌐 Python \| 📅 2020-06-07   |
 | [Dynamic Sparse Graph for Efficient Deep Learning](https://arxiv.org/abs/1810.00859)                                                                                                                             |       ICLR      |   `F`   |              [CUDA(3rd)](https://github.com/mtcrawshaw/dynamic-sparse-graph) ⭐ 7 \| 🐛 0 \| 🌐 Cuda \| 📅 2018-12-12              |
 
 ### 2018
@@ -359,7 +359,7 @@ The related papers are categorized as below:
 | [Variational Dropout Sparsifies Deep Neural Networks](http://arxiv.org/abs/1701.05369)                                                                   |   ICML  |  `W` |                                                                                                -                                                                                               |
 | [Combined Group and Exclusive Sparsity for Deep Neural Networks](https://proceedings.mlr.press/v70/yoon17a.html)                                         |   ICML  | `WF` |                                                                                                -                                                                                               |
 | [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128)                                  |   CVPR  |  `W` |                                                                                                -                                                                                               |
-| [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)                                                                               |   ICLR  |  `F` |                 [PyTorch(3rd)](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning) ⭐ 1,512 \| 🐛 23 \| 🌐 Python \| 📅 2020-06-07                 |
+| [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)                                                                               |   ICLR  |  `F` |                 [PyTorch(3rd)](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning) ⭐ 1,513 \| 🐛 23 \| 🌐 Python \| 📅 2020-06-07                 |
 | [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)                                               |   ICLR  |  `F` |                                     [TensorFlow(3rd)](https://github.com/Tencent/PocketFlow#channel-pruning) ⭐ 2,914 \| 🐛 75 \| 🌐 Python \| 📅 2023-03-31                                    |
 
 ### 2016
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

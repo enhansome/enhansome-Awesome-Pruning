@@ -2967,7 +2967,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3399,7 +3399,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:41:59.681Z",
+    "last_updated": "2026-10-11T09:05:56.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
