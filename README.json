@@ -3152,7 +3152,7 @@
             "open_issues": 15,
             "owner": "he-y",
             "repo": "soft-filter-pruning",
-            "stars": 386,
+            "stars": 385,
             "topics": [
               "model-compression",
               "pruning",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:05:56.420Z",
+    "last_updated": "2026-10-12T09:29:02.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
