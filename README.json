@@ -331,7 +331,7 @@
             "open_issues": 3,
             "owner": "IST-DASLab",
             "repo": "OBC",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:29:02.162Z",
+    "last_updated": "2026-10-13T09:35:16.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
