@@ -3227,7 +3227,7 @@
             "open_issues": 3,
             "owner": "arunmallya",
             "repo": "packnet",
-            "stars": 245,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:19:10.431Z",
+    "last_updated": "2026-10-19T07:57:00.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
