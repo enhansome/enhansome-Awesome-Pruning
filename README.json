@@ -3506,7 +3506,7 @@
             "open_issues": 2,
             "owner": "memoiry",
             "repo": "Awesome-model-compression-and-acceleration",
-            "stars": 665,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3619,7 +3619,7 @@
             "open_issues": 0,
             "owner": "chester256",
             "repo": "Model-Compression-Papers",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:50:48.856Z",
+    "last_updated": "2026-10-22T07:46:53.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
