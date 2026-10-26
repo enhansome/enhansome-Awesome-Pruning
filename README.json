@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2915,
             "topics": [
               "automl",
               "computer-vision",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2915,
             "topics": [
               "automl",
               "computer-vision",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:41:34.185Z",
+    "last_updated": "2026-10-26T07:56:55.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
