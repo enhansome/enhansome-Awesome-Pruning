@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 791,
+            "stars": 790,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:56:55.695Z",
+    "last_updated": "2026-10-27T08:04:48.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
