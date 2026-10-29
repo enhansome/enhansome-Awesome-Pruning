@@ -1534,7 +1534,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-04-14T01:24:12Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "RobustBench",
             "repo": "robustbench",
             "stars": 790,
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:45:37.394Z",
+    "last_updated": "2026-10-29T08:41:42.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
