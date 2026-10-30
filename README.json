@@ -103,7 +103,7 @@
             "open_issues": 11,
             "owner": "tianyic",
             "repo": "only_train_once_personal_footprint",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "automl",
               "deep-learning",
@@ -2967,7 +2967,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2915,
+            "stars": 2916,
             "topics": [
               "automl",
               "computer-vision",
@@ -3343,7 +3343,7 @@
             "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1088,
+            "stars": 1089,
             "topics": [
               "acceleration",
               "channel-pruning",
@@ -3399,7 +3399,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2915,
+            "stars": 2916,
             "topics": [
               "automl",
               "computer-vision",
@@ -3503,7 +3503,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-08-25T14:37:18Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "memoiry",
             "repo": "Awesome-model-compression-and-acceleration",
             "stars": 664,
@@ -3579,10 +3579,10 @@
             "language": null,
             "license": null,
             "last_commit": "2021-06-19T07:06:34Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "guan-yuan",
             "repo": "Awesome-AutoML-and-Lightweight-Models",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "architecture-search",
               "automated-feature-engineering",
@@ -3616,7 +3616,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-06-21T14:59:46Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "chester256",
             "repo": "Model-Compression-Papers",
             "stars": 402,
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:41:42.730Z",
+    "last_updated": "2026-10-30T08:48:09.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2495,
+      "stars": 2496,
       "topics": [
         "awesome-list",
         "model-acceleration",
