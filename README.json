@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "autodl",
               "automl",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:48:09.357Z",
+    "last_updated": "2026-10-31T08:35:22.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2496,
+      "stars": 2497,
       "topics": [
         "awesome-list",
         "model-acceleration",
