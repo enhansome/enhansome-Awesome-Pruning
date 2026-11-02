@@ -3615,8 +3615,8 @@
             "id": 125077034,
             "language": null,
             "license": null,
-            "last_commit": "2021-06-21T14:59:46Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-02T02:16:19Z",
+            "open_issues": 0,
             "owner": "chester256",
             "repo": "Model-Compression-Papers",
             "stars": 402,
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:26:23.976Z",
+    "last_updated": "2026-11-02T09:41:59.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",

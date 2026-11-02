@@ -1,6 +1,6 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,200 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,350 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,202 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,351 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
 Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) or [open an issue](https://github.com/he-y/awesome-Pruning/issues) to add papers.
 
@@ -386,7 +386,7 @@ The related papers are categorized as below:
 
 [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models) ⭐ 854 | 🐛 2 | 📅 2021-06-19
 
-[Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers) ⭐ 402 | 🐛 1 | 📅 2021-06-21
+[Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers) ⭐ 402 | 🐛 0 | 📅 2026-11-02
 
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) ⭐ 767 | 🐛 2 | 📅 2023-02-10
 
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
