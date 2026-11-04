@@ -1537,7 +1537,7 @@
             "open_issues": 13,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 790,
+            "stars": 789,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -2727,7 +2727,7 @@
             "open_issues": 12,
             "owner": "he-y",
             "repo": "filter-pruning-geometric-median",
-            "stars": 612,
+            "stars": 611,
             "topics": [
               "model-compression",
               "pruning",
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2916,
+            "stars": 2915,
             "topics": [
               "automl",
               "computer-vision",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2916,
+            "stars": 2915,
             "topics": [
               "automl",
               "computer-vision",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:45:21.398Z",
+    "last_updated": "2026-11-04T09:32:15.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
