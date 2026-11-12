@@ -1537,7 +1537,7 @@
             "open_issues": 13,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 791,
+            "stars": 792,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "autodl",
               "automl",
@@ -3322,7 +3322,7 @@
             "open_issues": 8,
             "owner": "Roll920",
             "repo": "ThiNet",
-            "stars": 148,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3343,7 +3343,7 @@
             "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1089,
+            "stars": 1088,
             "topics": [
               "acceleration",
               "channel-pruning",
@@ -3458,7 +3458,7 @@
             "open_issues": 7,
             "owner": "yiwenguo",
             "repo": "Dynamic-Network-Surgery",
-            "stars": 190,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3479,7 +3479,7 @@
             "open_issues": 1,
             "owner": "songhan",
             "repo": "Deep-Compression-AlexNet",
-            "stars": 674,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3555,7 +3555,7 @@
             "open_issues": 1,
             "owner": "zssloth",
             "repo": "Embedded-Neural-Network",
-            "stars": 567,
+            "stars": 566,
             "topics": [
               "asic",
               "compression",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:38:42.218Z",
+    "last_updated": "2026-11-12T09:58:49.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
