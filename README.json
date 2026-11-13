@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:58:49.049Z",
+    "last_updated": "2026-11-13T09:46:53.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
