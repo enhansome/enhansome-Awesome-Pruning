@@ -3582,7 +3582,7 @@
             "open_issues": 2,
             "owner": "guan-yuan",
             "repo": "Awesome-AutoML-and-Lightweight-Models",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "architecture-search",
               "automated-feature-engineering",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:09:16.911Z",
+    "last_updated": "2026-11-15T09:38:57.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
