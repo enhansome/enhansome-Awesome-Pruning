@@ -1537,7 +1537,7 @@
             "open_issues": 13,
             "owner": "RobustBench",
             "repo": "robustbench",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "adversarial-machine-learning",
               "adversarial-robustness",
@@ -2794,7 +2794,7 @@
             "open_issues": 1,
             "owner": "mehtadushy",
             "repo": "SelecSLS-Pytorch",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "cnn",
               "cvpr2019",
@@ -2896,7 +2896,7 @@
             "open_issues": 13,
             "owner": "google-research",
             "repo": "lottery-ticket-hypothesis",
-            "stars": 731,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3582,7 +3582,7 @@
             "open_issues": 2,
             "owner": "guan-yuan",
             "repo": "Awesome-AutoML-and-Lightweight-Models",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "architecture-search",
               "automated-feature-engineering",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:57:13.623Z",
+    "last_updated": "2026-11-17T10:53:25.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
