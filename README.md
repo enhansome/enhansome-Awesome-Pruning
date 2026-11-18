@@ -1,6 +1,6 @@
 # Awesome Pruning with stars
 
-A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,198 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,209 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,352 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
+A curated list of neural network pruning and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,196 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,210 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,353 | 🐛 2 | 🌐 Python | 📅 2022-09-26.
 
 Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pulls) or [open an issue](https://github.com/he-y/awesome-Pruning/issues) to add papers.
 
@@ -307,7 +307,7 @@ The related papers are categorized as below:
 | [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)                                                                                      |       CVPR      |   `F`   |           [PyTorch(Author)](https://github.com/ShawnDing1994/Centripetal-SGD) ⭐ 64 \| 🐛 2 \| 🌐 Python \| 📅 2022-09-08          |
 | [On Implicit Filter Level Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1811.12495), [Extension1](https://arxiv.org/abs/1905.04967), [Extension2](https://openreview.net/forum?id=rylVvNS3hE) |       CVPR      |   `F`   |           [PyTorch(Author)](https://github.com/mehtadushy/SelecSLS-Pytorch) ⭐ 340 \| 🐛 1 \| 🌐 Python \| 📅 2020-07-23           |
 | [Structured Pruning of Neural Networks with Budget-Aware Regularization](https://arxiv.org/abs/1811.09332)                                                                                                       |       CVPR      |   `F`   |                                                                 -                                                                 |
-| [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf)                                                                                             |       CVPR      |   `F`   |              [PyTorch(Author)](https://github.com/NVlabs/Taylor_pruning) ⭐ 323 \| 🐛 6 \| 🌐 Python \| 📅 2019-11-03              |
+| [Importance Estimation for Neural Network Pruning](http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf)                                                                                             |       CVPR      |   `F`   |              [PyTorch(Author)](https://github.com/NVlabs/Taylor_pruning) ⭐ 324 \| 🐛 6 \| 🌐 Python \| 📅 2019-11-03              |
 | [OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks](https://arxiv.org/abs/1905.11664)                                                                                               |       CVPR      |   `F`   |                                                                 -                                                                 |
 | [Variational Convolutional Neural Network Pruning](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.html)                              |       CVPR      |   `F`   |                                                                 -                                                                 |
 | [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777)                                                                                       |       CVPR      | `Other` |        [TensorFlow(Author)](https://github.com/lixincn2015/Partial-Order-Pruning) ⭐ 147 \| 🐛 1 \| 🌐 Cuda \| 📅 2020-09-23       |
@@ -394,4 +394,4 @@ The related papers are categorized as below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

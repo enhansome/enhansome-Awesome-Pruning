@@ -2827,7 +2827,7 @@
             "open_issues": 6,
             "owner": "NVlabs",
             "repo": "Taylor_pruning",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:53:25.485Z",
+    "last_updated": "2026-11-18T10:24:21.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
