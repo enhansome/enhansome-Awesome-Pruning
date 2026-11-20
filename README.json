@@ -2581,7 +2581,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -2794,7 +2794,7 @@
             "open_issues": 1,
             "owner": "mehtadushy",
             "repo": "SelecSLS-Pytorch",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "cnn",
               "cvpr2019",
@@ -2967,7 +2967,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1514,
+            "stars": 1512,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3083,7 +3083,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3343,7 +3343,7 @@
             "open_issues": 21,
             "owner": "ethanhe42",
             "repo": "channel-pruning",
-            "stars": 1088,
+            "stars": 1087,
             "topics": [
               "acceleration",
               "channel-pruning",
@@ -3399,7 +3399,7 @@
             "open_issues": 23,
             "owner": "Eric-mingjie",
             "repo": "rethinking-network-pruning",
-            "stars": 1514,
+            "stars": 1512,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -3425,7 +3425,7 @@
             "open_issues": 75,
             "owner": "Tencent",
             "repo": "PocketFlow",
-            "stars": 2914,
+            "stars": 2913,
             "topics": [
               "automl",
               "computer-vision",
@@ -3582,7 +3582,7 @@
             "open_issues": 2,
             "owner": "guan-yuan",
             "repo": "Awesome-AutoML-and-Lightweight-Models",
-            "stars": 854,
+            "stars": 853,
             "topics": [
               "architecture-search",
               "automated-feature-engineering",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:31:58.161Z",
+    "last_updated": "2026-11-20T10:13:25.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
@@ -3695,7 +3695,7 @@
       "open_issues": 16,
       "owner": "he-y",
       "repo": "Awesome-Pruning",
-      "stars": 2497,
+      "stars": 2496,
       "topics": [
         "awesome-list",
         "model-acceleration",
