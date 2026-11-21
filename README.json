@@ -2896,7 +2896,7 @@
             "open_issues": 13,
             "owner": "google-research",
             "repo": "lottery-ticket-hypothesis",
-            "stars": 730,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:13:25.466Z",
+    "last_updated": "2026-11-21T09:58:56.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
