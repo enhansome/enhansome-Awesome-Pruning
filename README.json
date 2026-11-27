@@ -3555,7 +3555,7 @@
             "open_issues": 1,
             "owner": "zssloth",
             "repo": "Embedded-Neural-Network",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "asic",
               "compression",
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:11:24.328Z",
+    "last_updated": "2026-11-27T11:03:08.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
