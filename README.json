@@ -328,10 +328,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-07-11T15:48:56Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "IST-DASLab",
             "repo": "OBC",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -1341,7 +1341,7 @@
             "open_issues": 2,
             "owner": "mil-ad",
             "repo": "prospr",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T14:26:32.621Z"
@@ -3683,7 +3683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:03:08.038Z",
+    "last_updated": "2026-11-28T10:40:10.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of neural network pruning resources.",
